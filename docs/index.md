@@ -21,8 +21,8 @@ graph TD;
     G --> |Yes| H[Scenario 3]
     I --> |No| K[Consider reading all \n scenarios for an overview]
     I --> |Yes| J[Scenario 4]
-#    click D "https://github.com/GenomicsAotearoa/data-management-resources/wiki/Scenario-1"
-#    click F "https://github.com/GenomicsAotearoa/data-management-resources/wiki/Scenario-2"
-#    click H "https://github.com/GenomicsAotearoa/data-management-resources/wiki/Scenario-3"
-#    click J "https://github.com/GenomicsAotearoa/data-management-resources/wiki/Scenario-4"
+    click D "https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario1"
+    click F "https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario2"
+    click H "https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario3"
+    click J "https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario4"
 ```
