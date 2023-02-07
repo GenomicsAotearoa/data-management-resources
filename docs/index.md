@@ -8,8 +8,6 @@ In this repository we outline four scenarios[1,2,3,4] that illustrate some of th
 
 Within the scenarios, we point to modules that examine these challenges and provide resources and solutions to help you on your data management journey. While these modules are non-exhaustive, they will be regularly updated as new solutions come to light. 
 
-% Nat test inserting flowchart here
-
 ```mermaid
 graph TD;
     A[Which scenario most closely reflects \n your data management journey?] --> B{I am new to the biodiversity \n genomics research space}
