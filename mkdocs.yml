@@ -11,8 +11,8 @@ repo_url: https://github.com/GenomicsAotearoa/data-management-resources
 
 theme:
   name: material
-  logo: ./docs/figures/nesi_ga.png
-  favicon: ./docs/figures/nesi_ga.png
+  logo: ./figures/ga_logo_blacksquare.jpg
+  favicon: ./figures/ga_logo_blacksquare.jpg
    # 404 page
   static_templates:
     - 404.html
