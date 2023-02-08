@@ -2,77 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://genomicsaotearoa.github.io/data-management-resources/</loc>
-         <lastmod>2023-02-07</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module1/</loc>
-         <lastmod>2023-02-07</lastmod>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module01/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module02/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module03/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module04/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module05/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module06/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module07/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module08/</loc>
+         <lastmod>2023-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module09/</loc>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module10/</loc>
-         <lastmod>2023-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module2/</loc>
-         <lastmod>2023-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module3/</loc>
-         <lastmod>2023-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module4/</loc>
-         <lastmod>2023-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module5/</loc>
-         <lastmod>2023-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module6/</loc>
-         <lastmod>2023-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module7/</loc>
-         <lastmod>2023-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module8/</loc>
-         <lastmod>2023-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://genomicsaotearoa.github.io/data-management-resources/modules/module9/</loc>
-         <lastmod>2023-02-07</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario1/</loc>
-         <lastmod>2023-02-07</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario2/</loc>
-         <lastmod>2023-02-07</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario3/</loc>
-         <lastmod>2023-02-07</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario4/</loc>
-         <lastmod>2023-02-07</lastmod>
+         <lastmod>2023-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
