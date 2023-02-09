@@ -6,7 +6,8 @@ title: Biodiversity genomic data management
 message: >-
   If you wish to cite this resource, please do so using the
   metadata provided here. 
-type: webpage
+preferred-citation:
+  type: webpage
 authors:
   - given-names: Natalie Jane
     family-names: Forsdick
