@@ -1,0 +1,81 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Biodiversity genomic data management
+message: >-
+  If you wish to cite this resource, please do so using the
+  metadata provided here. 
+type: software
+authors:
+  - given-names: Natalie Jane
+    family-names: Forsdick
+    email: forsdickn@landcareresearch.co.nz
+    name-particle: Natalie
+    affiliation: Manaaki Whenua - Landcare Research
+    orcid: 'https://orcid.org/0000-0003-0423-3314'
+  - given-names: Jana R
+    family-names: Wold
+    email: jana.wold@canterbury.ac.nz
+    affiliation: University of Canterbury
+  - given-names: Anton
+    family-names: Angelo
+    affiliation: University of Canterbury
+    email: anton.angelo@canterbury.ac.nz
+  - given-names: 'François '
+    family-names: Bissey
+    affiliation: University of Canterbury
+    email: francois.bissey@canterbury.ac.nz
+  - given-names: 'Jamie '
+    family-names: Hart
+    affiliation: University of Canterbury
+    email: jamie.hart@canterbury.ac.nz
+  - given-names: Mitchell
+    family-names: Head
+    affiliation: University of Waikato
+    email: mitchell.head@waikato.ac.nz
+  - given-names: Libby
+    family-names: Liggins
+    affiliation: Massey University
+    email: l.liggins@massey.ac.nz
+  - given-names: Dinindu
+    family-names: Senanayake
+    affiliation: New Zealand eScience Infrastructure
+    email: dinindu.senanayake@nesi.org.nz
+  - given-names: Tammy E
+    family-names: Steeves
+    affiliation: University of Canterbury
+    email: tammy.steeves@canterbury.ac.nz
+identifiers:
+  - type: url
+    value: >-
+      https://genomicsaotearoa.github.io/data-management-resources/
+url: >-
+  https://genomicsaotearoa.github.io/data-management-resources/
+abstract: >-
+  Large-scale genomic data sets are being generated at an
+  unprecedented pace, requiring collaboration across
+  disciplines to utilise these data to their full potential.
+  We represent a cross-disciplinary team, including IT and
+  eResearch support staff, biodiversity genomics
+  researchers, and those interested in appropriate data
+  stewardship and re-use. Through our experiences, we
+  appreciate the need for appropriate data management
+  practices not only to minimise the risks of data loss and
+  maximise efficiency and productivity for single projects,
+  but also to enhance opportunities for future data re-use
+  and collaboration. These practices are an essential
+  component in facilitating Indigenous data sovereignty and
+  are an expectation of the FAIR and CARE principles. Here
+  we model good data management practices, and provide tips
+  and tricks to support emerging researchers (and research
+  teams broadly) in documenting and managing biodiversity
+  genomic data sets and associated metadata. We aim to
+  empower the biodiversity genomics community to minimise
+  risks and maximise research impact now and into the
+  future.
+keywords:
+  - genomic data management
+  - biodiversity genomics
+  - data management plans
+license: CC-BY-1.0
