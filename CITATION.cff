@@ -6,7 +6,7 @@ title: Biodiversity genomic data management
 message: >-
   If you wish to cite this resource, please do so using the
   metadata provided here. 
-type: software
+type: webpage
 authors:
   - given-names: Natalie Jane
     family-names: Forsdick
@@ -22,11 +22,11 @@ authors:
     family-names: Angelo
     affiliation: University of Canterbury
     email: anton.angelo@canterbury.ac.nz
-  - given-names: 'François '
+  - given-names: François
     family-names: Bissey
     affiliation: University of Canterbury
     email: francois.bissey@canterbury.ac.nz
-  - given-names: 'Jamie '
+  - given-names: Jamie
     family-names: Hart
     affiliation: University of Canterbury
     email: jamie.hart@canterbury.ac.nz
@@ -46,10 +46,6 @@ authors:
     family-names: Steeves
     affiliation: University of Canterbury
     email: tammy.steeves@canterbury.ac.nz
-identifiers:
-  - type: url
-    value: >-
-      https://genomicsaotearoa.github.io/data-management-resources/
 url: >-
   https://genomicsaotearoa.github.io/data-management-resources/
 abstract: >-
