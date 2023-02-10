@@ -32,4 +32,4 @@ graph TD;
 
 This repository is intended as a resource that sits alongside the manuscript *Journeying towards best practice: tips and tricks for improved data management for biodiversity genomics researchers*[link to add in due course]. Content can be used freely to support biodiversity genomic data management. If the manuscript or repository are referred to in research, please cite this as:
 
-    Forsdick, N. J., Wold, J. R., Angelo, A., Bissey, F., Hart, J., Head, M., Liggins, L., Senanayake, D., & Steeves, T. E. (2023). Journeying towards best practice: tips and tricks for improved data management for biodiversity genomics researchers. *More details to add in due course.* 
+> Forsdick, N. J., Wold, J. R., Angelo, A., Bissey, F., Hart, J., Head, M., Liggins, L., Senanayake, D., & Steeves, T. E. (2023). Journeying towards best practice: tips and tricks for improved data management for biodiversity genomics researchers. *More details to add in due course.* 
