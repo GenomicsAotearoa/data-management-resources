@@ -9,3 +9,5 @@ Here we present four scenarios to help you identify key questions and concerns a
 [Scenario 3](https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario3/) - A research team leader
 
 [Scenario 4](https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario4/) - An eResearch support staff member
+
+![image](./figures/research-team.png)
