@@ -10,12 +10,12 @@ Based on the questions that arise from these scenarios, we direct you to [module
 
 ```mermaid
 graph TD;
-    A[Which scenario most closely reflects \n your data management journey?] --> B{I am new to the biodiversity \n genomics research space}
-    B --> |No| E{I am familiar with working across \n multiple research projects in \n a collaborative environment}
+    A[Which scenario most closely reflects \n your data management journey?] --> B{I am new to the \n biodiversity genomics \n research space}
+    B --> |No| E{I am familiar with \n working across multiple \n research projects in \n a collaborative \n environment}
     B --> |Yes| D[Scenario 1]
-    E --> |No| G{I am in a leadership position \n facilitating biodiversity \n genomics research}
+    E --> |No| G{I am in a leadership \n position facilitating \n biodiversity genomics \n research}
     E --> |Yes| F[Scenario 2]
-    G --> |No| I{I am acting in a \n support role to facilitate \n biodiversity genomics research}
+    G --> |No| I{I am acting \n in a support \n role to facilitate \n biodiversity genomics \n research}
     G --> |Yes| H[Scenario 3]
     I --> |No| K[Consider reading all \n scenarios for an overview]
     I --> |Yes| J[Scenario 4]
