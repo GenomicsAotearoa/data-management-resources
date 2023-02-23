@@ -6,7 +6,7 @@ Welcome to the genomic data management repository! We recognise that biodiversit
 
 In this repository we draw on our personal experiences to outline [four scenarios](https://genomicsaotearoa.github.io/data-management-resources/scenarios/) that illustrate challenges associated with genomic data management. We use these scenarios as examples to demonstrate a diversity of realistic considerations, compromises, and actions for biodiversity genomic data management. While we acknowledge that real life is not typically this tidy, we hope that you may see your own experiences reflected through some combination of these scenarios. While you are likely to relate most strongly with one scenario, we encourage you to peruse all four scenarios to gain a breadth of perspectives across career stages and roles.
 
-Based on the questions that arise from these scenarios, we direct you to [modules](https://genomicsaotearoa.github.io/data-management-resources/modules/) that examine these challenges and provide resources and solutions to help you on your data management journey. While these modules are non-exhaustive, they will be regularly updated as new solutions come to light. 
+Based on the questions that arise from these scenarios, we direct you to [modules](https://genomicsaotearoa.github.io/data-management-resources/modules/) that examine these challenges in more detail and provide resources and solutions to help you on your data management journey. While these modules are non-exhaustive, they will be regularly updated as new solutions come to light. 
 
 ```mermaid
 graph TD;
@@ -27,7 +27,7 @@ graph TD;
 
 !!! info "Good practice versus best practice" 
 
-    Here we recognise there are different standards of data management. We acknowledge that ‘gold standard’ best practice is aspirational, and may only be achievable under ideal scenarios. However, achieving ‘gold standard’ best practice as such may not always be practical/practicable/achievable within the constraints of a research project due to external factors. Instead, we prefer to encourage researchers to pursue ‘good practice’ data management, as an achievable goal, as a stepping stone along the journey towards the gold standard.
+    Here we recognise there are different standards of data management. We acknowledge that best practice is aspirational, and achieving best practice may not always be practicable within the constraints of a research project due to external factors (see the scenarios). Instead, we prefer to encourage researchers to pursue ‘good practice’ data management as a stepping stone on the journey towards best practice. 
 
 <br>
 
