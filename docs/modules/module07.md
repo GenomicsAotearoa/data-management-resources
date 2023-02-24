@@ -8,11 +8,8 @@ To best support research groups with their data management needs, eResearch supp
 
 While supporting researchers, eResearch teams have their own wants and needs that must be met to ensure they can deliver wrap-around data management solutions. Some of these include:
 
-<img src="Darryl-headshot.png" alt="" id="darryl"/>
-#darryl  {
-float: left;    
- margin: 0 15px 0 0;
-}
+
+<left>![Darryl](../figures/Darryl-headshot.png)</left>
 
 * I do not want researchers to put all their data in monolithic heaps. I want them to provide unique identification for each data set they want stored. All downstream data management solutions depend on this.
 * I want to know who is responsible for the data. Who can make decisions about its management?  This can be a person or a group, and preferably there is a clear chain of custody so the data is never orphaned inside the institution.
