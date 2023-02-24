@@ -8,50 +8,23 @@ To best support research groups with their data management needs, eResearch supp
 
 While supporting researchers, eResearch teams have their own wants and needs that must be met to ensure they can deliver wrap-around data management solutions. Some of these include:
 
-<img style="float: left; margin: 0px 15px 15px 0px;" src="../figures/Darryl-headshot.png" width="100" alt="Headshot of eResearch manager Darryl" />
-
-* I do not want researchers to put all their data in monolithic heaps. I want them to provide unique identification for each data set they want stored. All downstream data management solutions depend on this.
-* I want to know who is responsible for the data. Who can make decisions about its management?  This can be a person or a group, and preferably there is a clear chain of custody so the data is never orphaned inside the institution.
-* I want to know what kind of protection the data needs. Is it personal data, sovereign data, commercial data or open data?
-* I want to know who can access the data within these protections.
-* I want to know how the data is to be consumed. How do the researchers want to access the data within the protections that needs to be met?
-* I want to know much data we should expect in the data set? How will it grow over time?
-* I want to know what should be done with the data once it has reached the end of the immediate research lifecycle? 
-* I want to know whether data can or should be deleted in the future?
-
-
 <body>
 
-<h1>Float</h1>
   <div>
     <div style="float: left;">
-        <img src="../figures/Darryl-headshot.png" style="float:left;"/>
+        <img src="../figures/Darryl-headshot.png" style="float:left;" alt="Headshot of eResearch manager Darryl"/>
     </div>
     <div style="float: left;">
         <ul>
-        <li>This photo is amazing</li>
-        <li>Great view!</li>
-        <li>But why are the bullet points in the photo??</li>
-        <li>Good question, indeed!</li>
+        <li>I do not want researchers to put all their data in monolithic heaps. I want them to provide unique identification for each data set they want stored. All downstream data management solutions depend on this.</li>
+        <li>I want to know who is responsible for the data. Who can make decisions about its management?  This can be a person or a group, and preferably there is a clear chain of custody so the data is never orphaned inside the institution.</li>
+        <li>I want to know what kind of protection the data needs. Is it personal data, sovereign data, commercial data or open data?</li>
+        <li>I want to know who can access the data within these protections.</li>
+        <li>I want to know how the data is to be consumed. How do the researchers want to access the data within the protections that needs to be met?</li>
+        <li>I want to know much data we should expect in the data set? How will it grow over time?</li>
+        <li>I want to know what should be done with the data once it has reached the end of the immediate research lifecycle?</li>
+        <li>I want to know whether data can or should be deleted in the future?</li>
         </ul>
     </div>
-
-    <!-- Need to clear the floats -->
-    <div style="clear: both;"></div>
   </div>
 
-<h1>Flex</h1>
-<div style="display: flex;">
-    <div>
-        <img src="../figures/Darryl-headshot.png" style="float:left;"/>
-    </div>
-    <div>
-        <ul>
-        <li>This photo is amazing</li>
-        <li>Great view!</li>
-        <li>But why are the bullet points in the photo??</li>
-        <li>Good question, indeed!</li>
-        </ul>
-    </div>
-</div>
-</body>
