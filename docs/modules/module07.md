@@ -8,7 +8,6 @@ To best support research groups with their data management needs, eResearch supp
 
 While supporting researchers, eResearch teams have their own wants and needs that must be met to ensure they can deliver wrap-around data management solutions. Some of these include:
 
-<<<<<<< HEAD
 <img src="../figures/Darryl-headshot.png" alt="" id="darryl"/>
 
 <figure class="l left"><img src="../figures/Darryl-headshot.png" alt="Headshot of eResearch manager Darryl">
