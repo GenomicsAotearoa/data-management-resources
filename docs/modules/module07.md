@@ -25,7 +25,7 @@ While supporting researchers, eResearch teams have their own wants and needs tha
 <h1>Float</h1>
   <div>
     <div style="float: left;">
-        <img src="timber_logo.jpg" style="float:left;"/>
+        <img src="../figures/Darryl-headshot.png" style="float:left;"/>
     </div>
     <div style="float: left;">
         <ul>
@@ -43,7 +43,7 @@ While supporting researchers, eResearch teams have their own wants and needs tha
 <h1>Flex</h1>
 <div style="display: flex;">
     <div>
-        <img src="timber_logo.jpg" style="float:left;"/>
+        <img src="../figures/Darryl-headshot.png" style="float:left;"/>
     </div>
     <div>
         <ul>
