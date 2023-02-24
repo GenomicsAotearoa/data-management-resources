@@ -8,7 +8,7 @@ To best support research groups with their data management needs, eResearch supp
 
 While supporting researchers, eResearch teams have their own wants and needs that must be met to ensure they can deliver wrap-around data management solutions. Some of these include:
 
-<img style="float: left; margin: 0px 15px 15px 0px;" src="../figures/Darryl-headshot.png" width="150" alt="Headshot of eResearch manager Darryl" />
+<img style="float: left; margin: 0px 15px 15px 0px;" src="../figures/Darryl-headshot.png" width="100" alt="Headshot of eResearch manager Darryl" />
 
 * I do not want researchers to put all their data in monolithic heaps. I want them to provide unique identification for each data set they want stored. All downstream data management solutions depend on this.
 * I want to know who is responsible for the data. Who can make decisions about its management?  This can be a person or a group, and preferably there is a clear chain of custody so the data is never orphaned inside the institution.
@@ -18,3 +18,17 @@ While supporting researchers, eResearch teams have their own wants and needs tha
 * I want to know much data we should expect in the data set? How will it grow over time?
 * I want to know what should be done with the data once it has reached the end of the immediate research lifecycle? 
 * I want to know whether data can or should be deleted in the future?
+
+
+<body>
+  <p>
+    <img src="../figures/Darryl-headshot.png" style="float: left;"/>
+    <p>
+    <ul style="padding-left: 400px;">
+      <li>This photo is amazing</li>
+      <li>Great view!</li>
+      <li>But why are the bullet points in the photo??</li>
+      <li>Good question, indeed!</li>
+    </ul>
+  </p>
+</body>
