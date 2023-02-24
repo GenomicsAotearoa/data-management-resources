@@ -12,7 +12,7 @@ While supporting researchers, eResearch teams have their own wants and needs tha
 
   <div>
     <div style="float: left;">
-        <img src="docs/figures/Darryl-headshot.png" style="float:left;" alt="Headshot of eResearch manager Darryl"/>
+        <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Darryl-headshot.png?raw=true" style="float:left;" alt="Headshot of eResearch manager Darryl"/>
     </div>
     <div style="float: left;">
         <ul>
