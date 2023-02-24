@@ -21,14 +21,37 @@ While supporting researchers, eResearch teams have their own wants and needs tha
 
 
 <body>
-  <p>
-    <img src="../figures/Darryl-headshot.png" style="float: left;"/>
-    <p>
-    <ul style="padding-left: 400px;">
-      <li>This photo is amazing</li>
-      <li>Great view!</li>
-      <li>But why are the bullet points in the photo??</li>
-      <li>Good question, indeed!</li>
-    </ul>
-  </p>
+
+<h1>Float</h1>
+  <div>
+    <div style="float: left;">
+        <img src="timber_logo.jpg" style="float:left;"/>
+    </div>
+    <div style="float: left;">
+        <ul>
+        <li>This photo is amazing</li>
+        <li>Great view!</li>
+        <li>But why are the bullet points in the photo??</li>
+        <li>Good question, indeed!</li>
+        </ul>
+    </div>
+
+    <!-- Need to clear the floats -->
+    <div style="clear: both;"></div>
+  </div>
+
+<h1>Flex</h1>
+<div style="display: flex;">
+    <div>
+        <img src="timber_logo.jpg" style="float:left;"/>
+    </div>
+    <div>
+        <ul>
+        <li>This photo is amazing</li>
+        <li>Great view!</li>
+        <li>But why are the bullet points in the photo??</li>
+        <li>Good question, indeed!</li>
+        </ul>
+    </div>
+</div>
 </body>
