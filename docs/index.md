@@ -18,15 +18,15 @@ Through this hub, we aim to empower the biodiversity genomics community to minim
 
 ```mermaid
 graph TD;
-    A[Which scenario most closely reflects \n your data management journey? <br>] --> B{I am new to the \n biodiversity genomics \n research space}
-    B --> |No| E{I am familiar with \n working across multiple \n research projects in \n a collaborative \n environment}
-    B --> |Yes| D[Scenario 1]
-    E --> |No| G{I am in a leadership \n position facilitating \n biodiversity genomics \n research}
-    E --> |Yes| F[Scenario 2]
-    G --> |No| I{I am acting \n in a support \n role to facilitate \n biodiversity genomics \n research}
-    G --> |Yes| H[Scenario 3]
+    A[Which scenario most closely reflects \n your data management journey? <br>] --> B{I am new to the \n biodiversity genomics \n research space }
+    B --> |No| E{I am familiar with \n working across multiple \n research projects in \n a collaborative \n environment }
+    B --> |Yes| D[Scenario 1 ]
+    E --> |No| G{I am in a leadership \n position facilitating \n biodiversity genomics \n research }
+    E --> |Yes| F[Scenario 2 ]
+    G --> |No| I{I am acting in \n a support role \n to facilitate \n biodiversity genomics \n research }
+    G --> |Yes| H[Scenario 3 ]
     I --> |No| K[Consider reading all \n scenarios for an overview <br>]
-    I --> |Yes| J[Scenario 4]
+    I --> |Yes| J[Scenario 4 ]
     click D "https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario1"
     click F "https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario2"
     click H "https://genomicsaotearoa.github.io/data-management-resources/scenarios/scenario3"
