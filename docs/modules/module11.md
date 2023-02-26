@@ -8,11 +8,11 @@ Here are some tips and tricks that we have found useful in our personal research
 
   <div>
     <div style="float: left;">
-        <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" style="float:left;" alt="Profile image of Taylor Smith"/>
+        <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" style="float:left; width:100px;" alt="Profile image of Taylor Smith"/>
     </div>
     <div style="float: left;">
     <div style="float: right;">
-        <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" style="float:left;" alt="Profile image of Dr Atsushi Sato"/>
+        <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" style="float:right; width:100px;" alt="Profile image of Dr Atsushi Sato"/>
     </div>
     <div style="float: right;">
         <ul>
