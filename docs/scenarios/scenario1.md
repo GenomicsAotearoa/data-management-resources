@@ -15,6 +15,6 @@ Taylor’s main concerns are around ensuring Indigenous data sovereignty and gov
 * Why is data management important? -> See [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/) - Data management ethics and benefits.
 * Where can I look for help? -> See [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Data management resources.
 * What is metadata, and how should I manage it? -> See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - The what, why and how of metadata, [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Templates.
-* How can I structure directories for raw data and analysis? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) Templates.
+* How can I structure directories for raw data and analysis? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Templates.
 * How can I incorporate Indigenous data sovereignty perspectives in my data management practices? -> See [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Incorporating Indigenous data sovereignty considerations
 * How can I incorporate data management in my daily workflows? -> See [Module 11](https://genomicsaotearoa.github.io/data-management-resources/modules/module11/) - Making life easy.
