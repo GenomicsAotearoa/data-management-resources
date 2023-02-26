@@ -1,4 +1,4 @@
-# Modules
+# Module overview
 
 Here you can find a series of modules filled with tips and tricks to support you on your data management journey. Use what works for you and leave what doesn’t!
 
@@ -14,7 +14,7 @@ Here you can find a series of modules filled with tips and tricks to support you
 
 [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Daily data management - workflow management, version control, and dependency management
 
-[Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - Helping support staff help you
+[Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - Helping eResearch support staff help you
 
 [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Templates for data management 
 
