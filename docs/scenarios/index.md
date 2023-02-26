@@ -1,4 +1,4 @@
-# Scenarios
+# Scenario overview
 
 Here we present four scenarios that describe some of the key questions and concerns associated with genomic data management across a diversity of career stages and roles across the research ecosystem. We hope that you are able to relate to some of the challenges experienced by the characters in their data management journeys. To gain a broad understanding across various perspectives, we recommend investigating all four scenarios.
 
