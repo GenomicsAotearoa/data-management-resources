@@ -26,14 +26,16 @@ Here are some tips and tricks that we have found useful in our personal research
 
 <p>
 <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:left;height:100px;">
+  * A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
   
-* A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
-  
-* A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image. 
-  
-* A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image. 
-  
- <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" alt="Profile image of Dr Atsushi Sato" style="float:right;height:100px;">
+  * A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image. 
+</p>
+ 
+<p>
+   <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" alt="Profile image of Dr Atsushi Sato" style="float:right;height:100px;">
+  * A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image. 
+
+  * A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
 </p>
 
 
