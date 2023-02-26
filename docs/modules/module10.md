@@ -32,7 +32,7 @@ Here are some tips and tricks that we have found useful in our personal research
 </p>
  
 <p>
-   <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" alt="Profile image of Dr Atsushi Sato" style="float:right;height:100px;">
+  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" alt="Profile image of Dr Atsushi Sato" style="float:right;height:100px;">
   * A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image. 
 
   * A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.
