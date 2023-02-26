@@ -15,8 +15,8 @@ While supporting researchers, eResearch teams have their own wants and needs tha
   <li>I want to know what kind of protection the data needs. Is it personal data, sovereign data, commercial data or open data?</li>
   <li>I want to know who can access the data within these protections.</li>
   <li>I want to know how the data is to be consumed. How do the researchers want to access the data within the protections that needs to be met?</li>
-  <li>I want to know much data we should expect in the data set? How will it grow over time?</li>
-  <li>I want to know what should be done with the data once it has reached the end of the immediate research lifecycle?</li>
-  <li>I want to know whether data can or should be deleted in the future?</li>
+  <li>I want to know much data we should expect in the data set. How will it grow over time?</li>
+  <li>I want to know what should be done with the data once it has reached the end of the immediate research lifecycle.</li>
+  <li>I want to know whether data can or should be deleted in the future.</li>
   
 </p>
