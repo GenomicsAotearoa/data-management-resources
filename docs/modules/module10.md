@@ -1,4 +1,4 @@
-# Module 11 - Top tips and tricks
+# Module 10 - Top tips and tricks
 
 Here are some tips and tricks that we have found useful in our personal research journeys. As every situation is different, your mileage may vary. 
 
