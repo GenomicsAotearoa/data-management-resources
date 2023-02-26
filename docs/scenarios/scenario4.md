@@ -1,1 +1,17 @@
 # Scenario 4
+
+## Institutional eResearch Manager Darryl Baker
+
+Darryl Baker is an eResearch Manager at an academic institution, and provides eResearch support to numerous research projects across all disciplines and departments, including providing advice and services relating to compute and data storage facilities. Darryl keeps up to date with research-focused technologies and mentors researchers on the use of research systems. Darryl manages the resource that is the institutional compute and storage facilities allocated to research. In the last four years the storage facility of the institution has reached peak capacity, requiring careful management of its resources. Darryl seeks budget approval to expand the current on-premise storage facility. Based on quotes provided by vendors, purchasing storage infrastructure proves to be expensive. Furthermore, this would be a short-term solution as the institution’s research data is predicted to exceed the storage limit in future years.
+
+Recently, Professor Nepia reached out to Darryl for IT services and support for her conservation genomics research group. Professor Nepia’s group generates a number of projects, producing a growing amount of data over the last 10 years. Darryl meets with one of Professor Nepia’s research students, Taylor Smith, to understand the eResearch needs of an upcoming project about a new species of lizards (mokomoko). In a face-to-face meeting, he gathers information about the data being produced. Early indications are that this project will generate vast amounts of data and require a DMP. Darryl is concerned with the kaitiakitanga of the data, and wishes to understand the needs of the research group in order to provide support with appropriate storage and computing solutions. Through conversations with researchers and research groups, Darryl can gain a clear vision of what they are trying to achieve. At the same time, Darryl holds the awareness of the constraints arising from institutional infrastructure, and the responsibilities of the researcher under national and institutional legislation. 
+
+![Institutional eResearch Manager Darryl Baker](../figures/Darryl-v2.png)
+
+## Darryl’s key questions to support research groups in their data management journeys
+
+* What are the needs of the researcher/research group, and of their data? See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - Helping eResearch support staff help you.
+* Is there a DMP for this research, and what does it contain? See [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Designing, co-developing, and adapting data management plans.
+* How is the data intended to be stored, and for how long? See [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Hot, warm and cold storage.
+* Is the data properly labelled, and is there associated metadata? See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - The what, why and how of metadata.
+* Are there any additional considerations around the data? See [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Incorporating Indigenous data sovereignty considerations, [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Helping eResearch support staff help you.
