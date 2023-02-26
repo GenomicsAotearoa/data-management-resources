@@ -21,4 +21,17 @@ Here are some tips and tricks that we have found useful in our personal research
 </p>
 
 
-
+<body>
+      <div id="container">
+         <img src="https://via.placeholder.com/100">
+         <div>Below are bullets</div>
+         <ol>
+            <li>This is the bullet This is the bullet This is the bullet</li>
+            <li>This is the bullet</li>
+            <li>This is the bullet</li>
+            <li>This is the bullet This is the bullet This is the bullet</li>
+            <li>This is the bullet</li>
+            <li>This is the bullet</li>
+         </ol>
+      </div>
+   </body>
