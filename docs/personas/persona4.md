@@ -1,4 +1,4 @@
-# Scenario 4
+# Persona 4
 
 ## Institutional eResearch Manager Darryl Baker
 

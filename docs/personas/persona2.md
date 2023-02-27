@@ -1,4 +1,4 @@
-# Scenario 2
+# persona 2
 
 ## Research fellow Dr Atsushi Sato
 

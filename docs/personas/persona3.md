@@ -1,4 +1,4 @@
-# Scenario 3
+# Persona 3
 
 ## Research group leader Professor Tehara Nepia
 

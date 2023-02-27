@@ -1,4 +1,4 @@
-# Scenario 1 
+# persona 1 
 
 ## PhD student Taylor Smith
 
