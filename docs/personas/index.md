@@ -1,6 +1,6 @@
 # Scenario overview
 
-Here we present four scenarios that help to describe some of the key questions and concerns associated with genomic data management across a diversity of career stages and roles within the research ecosystem. We hope that you are able to relate to some of the challenges experienced by the characters in their data management journeys. To gain a broad understanding across various perspectives, we recommend investigating all four scenarios.
+Here we describe four personas across a diversity of career stages and roles within the research ecosystem. We use these to highlight some of the key questions and concerns associated with genomic data management, based on our personal data management journeys. We hope that you are able to relate to some of the challenges experienced by the characters in their data management journeys. To gain a broad understanding across various perspectives, we recommend investigating all four personas.
 
 [Persona 1](https://genomicsaotearoa.github.io/data-management-resources/personas/persona1/) - A student new to biodiversity genomics 
 
