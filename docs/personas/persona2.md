@@ -1,4 +1,4 @@
-# persona 2
+# Persona 2
 
 ## Research fellow Dr Atsushi Sato
 

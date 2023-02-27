@@ -1,4 +1,4 @@
-# persona 1 
+# Persona 1 
 
 ## PhD student Taylor Smith
 
