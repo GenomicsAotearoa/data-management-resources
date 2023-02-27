@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Biodiversity Genomic Data Management Hub! We recognise that biodiversity genomic data management can be a challenge, particularly for researchers entering this space, and you are likely to have many questions as you proceed on your journey. The primary goal of this repository is to support biodiversity genomics researchers in developing good data management practices that embody the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) data stewardship principles, as described in <a href="#citation-licensing">Citation & Licensing.</a>. 
+Welcome to the Biodiversity Genomic Data Management Hub! We recognise that biodiversity genomic data management can be a challenge, particularly for researchers entering this space, and you are likely to have many questions as you proceed on your journey. The primary goal of this repository is to support biodiversity genomics researchers in developing good data management practices that embody the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) data stewardship principles, as described in <a href="#citation-licensing">Citation & Licensing.</a>
 
 !!! info "Good practice versus best practice" 
 
@@ -33,7 +33,9 @@ graph TD;
     click J "https://genomicsaotearoa.github.io/data-management-resources/personas/persona4"
 ```
 
-<a id="citation-licensing">!!! note "Citation & Licensing"</a>
+<a id="citation-licensing"></a>
+
+!!! note "Citation & Licensing"
 
     **Biodiversity Genomic Data Management Hub** material is licensed under the **Creative Commons Attribution 4.0 International Public License (CC-BY 4.0)**. ([See here for more information](https://github.com/GenomicsAotearoa/data-management-resources/blob/main/LICENSE)). 
     This repository is intended as a resource that sits alongside the manuscript *Journeying towards best practice: tips and tricks for improved data management for biodiversity genomics researchers* [link to add in due course]. If you refer to the manuscript or repository in research, we request that you include the citation:
