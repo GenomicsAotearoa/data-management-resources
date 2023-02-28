@@ -12,6 +12,6 @@ While Dr Sato’s skills are in high demand, he has been persistently employed o
 
 ## Dr Sato’s key questions in his data management journey
 
-* How can I embed data management processes in my daily workflows? -> See [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Daily data management, [Module 11](https://genomicsaotearoa.github.io/data-management-resources/modules/module11/) - Making life easy.
-* How do I ensure interoperability across large genomic and environmental data sets? -> See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - The what, why, and how of metadata management.
-* How can I get help with getting access to analysis and storage resources? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - Helping eResearch support staff help you.
+* How can I embed data management processes in my daily workflows? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Daily data management, [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module11/) - Top tips and tricks to make data management easy.
+* How do I ensure interoperability across large genomic and environmental data sets? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why, and how of metadata management.
+* How can I get help with getting access to analysis and storage resources? -> See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you.

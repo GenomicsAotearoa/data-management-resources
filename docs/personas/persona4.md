@@ -10,8 +10,8 @@ Recently, Professor Nepia reached out to Darryl for IT services and support for 
 
 ## Darryl’s key questions to support research groups in their data management journeys
 
-* What are the needs of the researcher/research group, and of their data? See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - Helping eResearch support staff help you.
-* Is there a DMP for this research, and what does it contain? See [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Designing, co-developing, and adapting data management plans.
-* How is the data intended to be stored, and for how long? See [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Hot, warm and cold storage.
-* Is the data properly labelled, and is there associated metadata? See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - The what, why and how of metadata.
-* Are there any additional considerations around the data? See [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Incorporating Indigenous data sovereignty considerations, [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Helping eResearch support staff help you.
+* What are the needs of the researcher/research group, and of their data? See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you.
+* Is there a DMP for this research, and what does it contain? See [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Designing, co-developing, and adapting data management plans.
+* How is the data intended to be stored, and for how long? See [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Hot, warm, and cold data storage.
+* Is the data properly labelled, and is there associated metadata? See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata.
+* Are there any additional considerations around the data? See [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations, [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you.

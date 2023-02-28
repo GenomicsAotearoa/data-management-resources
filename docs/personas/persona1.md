@@ -12,9 +12,9 @@ Taylor’s main concerns are around ensuring Indigenous data sovereignty and gov
 
 ## Taylor’s key questions in their data management journey
 
-* Why is data management important? -> See [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/) - Data management ethics and benefits.
-* Where can I look for help? -> See [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Data management resources.
-* What is metadata, and how should I manage it? -> See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - The what, why and how of metadata, [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Templates.
-* How can I structure directories for raw data and analysis? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Templates.
-* How can I incorporate Indigenous data sovereignty perspectives in my data management practices? -> See [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Incorporating Indigenous data sovereignty considerations
-* How can I incorporate data management in my daily workflows? -> See [Module 11](https://genomicsaotearoa.github.io/data-management-resources/modules/module11/) - Making life easy.
+* Why is data management important? -> See [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/) -  The ethics and benefits of good data management practices.
+* Where can I look for help? -> See [Module 10](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Best practice data management resources.
+* What is metadata, and how should I manage it? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata, [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Templates for data management.
+* How can I structure directories for raw data and analysis? -> See [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Templates for data management.
+* How can I incorporate Indigenous data sovereignty perspectives in my data management practices? -> See [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations.
+* How can I incorporate data management in my daily workflows? -> See [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Top tips and tricks to make data management easy, [Module 10](https://genomicsaotearoa.github.io/data-management-resources/modules/module10/) - Daily data management.
