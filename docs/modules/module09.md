@@ -1,4 +1,4 @@
-# Module 09 - Templates for data amanagement
+# Module 09 - Templates for data management
 
 Here we present a series of templates and examples to help you get started in managing your data.
 

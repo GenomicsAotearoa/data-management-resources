@@ -1,1 +1,1 @@
-# Mdule 05 - Designing, co-developing, and adapting data management plans
+# Module 05 - Designing, co-developing, and adapting data management plans
