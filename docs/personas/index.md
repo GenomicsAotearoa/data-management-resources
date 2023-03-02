@@ -10,4 +10,4 @@ Here we describe four personas across a diversity of career stages and roles wit
 
 [Persona 4](https://genomicsaotearoa.github.io/data-management-resources/personas/persona4/) - An eResearch support staff member
 
-![Personas representing diverse perspectives across the research ecosystem](../figures/research-team.png)
+<img src="../figures/research-team.png" alt="Black outline drawings of four people representing diverse perspectives across the research system, including students, postdocs, team leaders, and eResearch support staff">
