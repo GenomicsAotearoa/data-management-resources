@@ -8,7 +8,7 @@ He is experienced in biodiversity genomics, and is able to clearly describe his 
 
 While Dr Sato’s skills are in high demand, he has been persistently employed on precarious short-term contracts. He finds this stressful, and is constantly looking for new opportunities that may lead towards his goal of attaining a permanent research position. These concerns impact his research priorities, as he perceives trade-offs between time spent on data management versus that spent on data analysis that can contribute towards his publication record. From Dr Sato’s perspective, data management is an onerous task.
 
-![Dr Atsushi Sato](../figures/Scenario2-v4.png)
+![The data management needs of postdoctoral researcher Dr Atsushi Sato](../figures/Scenario2-v4.png)
 
 ## Dr Sato’s key questions in his data management journey
 
