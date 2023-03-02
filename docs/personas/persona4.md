@@ -6,7 +6,7 @@ Darryl Baker is an eResearch Manager at an academic institution, and provides eR
 
 Recently, Professor Nepia reached out to Darryl for IT services and support for her conservation genomics research group. Professor Nepia’s group generates a number of projects, producing a growing amount of data over the last 10 years. Darryl meets with one of Professor Nepia’s research students, Taylor Smith, to understand the eResearch needs of an upcoming project about a new species of lizards (mokomoko). In a face-to-face meeting, he gathers information about the data being produced. Early indications are that this project will generate vast amounts of data and require a DMP. Darryl is concerned with the kaitiakitanga of the data, and wishes to understand the needs of the research group in order to provide support with appropriate storage and computing solutions. Through conversations with researchers and research groups, Darryl can gain a clear vision of what they are trying to achieve. At the same time, Darryl holds the awareness of the constraints arising from institutional infrastructure, and the responsibilities of the researcher under national and institutional legislation. 
 
-![Institutional eResearch Manager Darryl Baker](../figures/Darryl-v2.png)
+![The data maangement information Institutional eResearch Manager Darryl Baker seeks to support researchers](../figures/Darryl-v2.png)
 
 ## Darryl’s key questions to support research groups in their data management journeys
 
