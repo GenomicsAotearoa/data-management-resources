@@ -4,7 +4,7 @@ Here you can find a series of modules filled with tips and tricks to support you
 
 We present a simplified figure describing the data lifecycle within the broader research lifecycle, and indicate at which points the accompanying modules may be most relevant for implementing the associated data management actions. 
 
-![The data lifecycle](../figures/research-lifecycle-v3.png)
+![The data lifecycle, from design and planning through to access and re-use](../figures/research-lifecycle-v3.png)
 
 All icons created by Freepik at <a href="https://www.flaticon.com/free-icons/">Flaticon</a>.
 
