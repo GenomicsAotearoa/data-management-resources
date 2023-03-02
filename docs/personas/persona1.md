@@ -8,7 +8,7 @@ Their research group is in the process of developing a lab manual that includes 
 
 Taylor’s main concerns are around ensuring Indigenous data sovereignty and governance meet the needs of the Indigenous communities with cultural ties to the focal species (a newly described species of lizard/mokomoko) during the active life-span of the project. As the project has a defined end-date, they also want to ensure that there is a framework in place to uphold these requirements into the future. Communication around data management is primarily with their research group leader, Professor Nepia, who is maintaining long-term trust-based relationships with local communities, with additional support from their wider lab group. 
 
-![Taylor Smith](../figures/Scenario1-v4.png)
+![The data management needs of PhD student Taylor Smith](../figures/Scenario1-v4.png)
 
 ## Taylor’s key questions in their data management journey
 
