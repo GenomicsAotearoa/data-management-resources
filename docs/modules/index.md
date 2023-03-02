@@ -1,6 +1,10 @@
 # Module overview
 
-Here you can find a series of modules filled with tips and tricks to support you on your data management journey. Use what works for you and leave what doesn’t!
+Here you can find a series of modules filled with tips and tricks to support you on your data management journey. Use what works, adapt as needed, and leave the rest. 
+
+We present a simplified figure describing the data lifecycle within the broader research lifecycle, and indicate at which points the accompanying modules may be most relevant for implementing the associated data management actions. 
+
+![The data lifecycle](../figures/research-lifecycle-v3.png)
 
 [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Top tips and tricks to make data management easy
 
