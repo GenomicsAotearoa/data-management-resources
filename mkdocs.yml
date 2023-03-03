@@ -11,6 +11,7 @@ repo_url: https://github.com/GenomicsAotearoa/data-management-resources
 
 theme:
   name: material
+  custom_dir: ./overrides
   logo: ./figures/ga_logo_blacksquare.jpg
   favicon: ./figures/ga_logo_blacksquare.jpg
    # 404 page
