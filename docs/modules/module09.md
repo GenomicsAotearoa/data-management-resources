@@ -26,3 +26,7 @@ Our raw data, in the form of a compressed FASTQ file, is held in the `raw-data/`
 The script to run FastQC to check sequencing quality should direct outputs to the `./first-sequencing-project/outputs/01-fastqc/` directory. Once we run this analysis, we will find the output FastQC results files there.
 
 From here, it’s easy to see how you can build up your analysis pipeline from the `scripts/` directory, creating new numbered subdirectories in `outputs/` for each associated set of output files produced.
+
+
+<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/under-construction_geek_man_01.png?raw=true" alt="Under Construction sign" style="height:300px;">
+This page is currently under construction. Come back later as more tools are added.
