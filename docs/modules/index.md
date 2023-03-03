@@ -6,7 +6,7 @@ We present a simplified figure describing the data lifecycle within the broader 
 
 ![The data lifecycle, from design and planning through to access and re-use](../figures/research-lifecycle-v3.png)
 
-All icons created by Freepik at <a href="https://www.flaticon.com/free-icons/">Flaticon</a>.
+<p> <span style="font-size: 8px"> All icons created by Freepik at <a href="https://www.flaticon.com/free-icons/">Flaticon</a>.</span></p>
 
 [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Top tips and tricks to make data management easy
 
