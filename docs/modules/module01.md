@@ -21,3 +21,5 @@ Here are some tips and tricks that we have found useful in our personal research
   <li>We recommend you use programs that can make writing, editing, and running scripts easier, like <a href="[https://www.w3schools.com/](https://code.visualstudio.com/)">Visual Studio Code</a>.</li>
   
 </p>
+
+<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/under-construction_geek_man_01.png?raw=true" alt="Under Construction sign" style="height:300px;">
