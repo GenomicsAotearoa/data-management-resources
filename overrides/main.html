@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
-{% block announce %}
-  <strong></strong>This repository is in the early stages of development (Alpha Version)</strong>
+{% block header %}
+<!-- Custom Banner -->
+<div class="banner">
+    <p style="color:white; display:inline;font-size: 160%;">This repository is in the early stages of development (Alpha Version)</p>
+</div>
+
+<!-- Original Header -->
+{% include "partials/header.html" %}
 {% endblock %}
