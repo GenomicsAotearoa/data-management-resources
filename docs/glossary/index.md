@@ -1,6 +1,5 @@
 # Glossary 
 
-** test case ** 
 <style type="text/css">
 
   dl {
@@ -27,10 +26,12 @@
 </style>
 
 <dl>
-  <dt>Coffee</dt>
-  <dd>Black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
+  <dt>Accessible data</dt>
+  <dd>Data accessible under well-defined conditions, as per the FAIR Principles (Mons et al., 2017; Wilkinson et al., 2016).</dd>
+  <dt>Data lifecycle</dt>
+  <dd>The steps in the research process specifically pertaining to data, from planning, collection and generation, analysis and collaboration, evaluation, storage, dissemination, access, and reuse, which can contribute to the planning for new data generation. The data and research lifecycles are distinct but interrelated.</dd>
+  <dt>Data management</dt>
+  <dd>The processes and practices associated with the documentation and storage of and access to data and associated metadata throughout the research lifecycle and beyond.</dd>
 </dl>
 
 
