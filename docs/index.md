@@ -20,6 +20,6 @@ Through this hub, we aim to empower the biodiversity genomics community to minim
 
 !!! note "Citation & Licensing"
 
-    **Biodiversity Genomic Data Management Hub** material is licensed under the **Creative Commons Attribution 4.0 International Public License (CC-BY 4.0)**. ([See here for more information](https://github.com/GenomicsAotearoa/data-management-resources/blob/main/LICENSE)). 
+    **Biodiversity Genomic Data Management Hub** material is licensed under the [**Creative Commons Attribution 4.0 International Public License (CC-BY 4.0)**](https://github.com/GenomicsAotearoa/data-management-resources/blob/main/LICENSE). 
     This repository is intended as a resource that sits alongside the manuscript *Journeying towards best practice: tips and tricks for improved data management for biodiversity genomics researchers* [link to add in due course]. If you refer to the manuscript or repository in research, we request that you include the citation:
     > Forsdick, N. J., Wold, J. R., Angelo, A., Bissey, F., Hart, J., Head, M., Liggins, L., Senanayake, D., & Steeves, T. E. (2023). Journeying towards best practice: tips and tricks for improved data management for biodiversity genomics researchers. *More details to add in due course.* 
