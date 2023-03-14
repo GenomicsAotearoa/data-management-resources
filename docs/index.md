@@ -24,7 +24,7 @@ Through this hub, we aim to empower the biodiversity genomics community to minim
     This repository is intended as a resource that sits alongside the manuscript *Journeying towards best practice: tips and tricks for improved data management for biodiversity genomics researchers* [link to add in due course]. If you refer to the manuscript or repository in research, we request that you include the citation:
     > Forsdick, N. J., Wold, J. R., Angelo, A., Bissey, F., Hart, J., Head, M., Liggins, L., Senanayake, D., & Steeves, T. E. (2023). Journeying towards best practice: tips and tricks for improved data management for biodiversity genomics researchers. *More details to add in due course.* 
     
-**<p style="text-align: center;">
+<p style="text-align: center;">
 [Show me the Personas](https://genomicsaotearoa.github.io/data-management-resources/personas/){ .md-button .md-button--primary } [Show me the Modules](https://genomicsaotearoa.github.io/data-management-resources/modules/){ .md-button .md-button--primary }
-    </p>**
+</p>
 
