@@ -4,9 +4,15 @@ Here you can find a series of modules filled with tips and tricks to support you
 
 We present a simplified figure describing the data lifecycle within the broader research lifecycle, and indicate at which points the accompanying modules may be most relevant for implementing the associated data management actions. 
 
-![The data lifecycle, from design and planning through to access and re-use](../figures/research-lifecycle-v3.png)
+<figure>
+<img src="../figures/research-lifecycle-v3.png" alt="The Data Lifecycle" style="width:75%">
+  <figcaption>
+    The data lifecycle, from design and planning through to access and re-use.
+    <p> <span style="font-size: 11px"> All icons created by Freepik at <a href="https://www.flaticon.com/free-icons/">Flaticon</a>.</span></p>
+  </figcaption>
+</figure>
 
-<p> <span style="font-size: 11px"> All icons created by Freepik at <a href="https://www.flaticon.com/free-icons/">Flaticon</a>.</span></p>
+<! --![The data lifecycle, from design and planning through to access and re-use](../figures/research-lifecycle-v3.png)-->
 
 [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Top tips and tricks to make data management easy
 
