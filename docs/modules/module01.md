@@ -22,6 +22,15 @@ Here are some tips and tricks that we have found useful in our personal research
   
 </p>
 
+## Taylor and Atsushi’s advice for emerging researchers
+
+<p><p/>
+
+IMAGE
+
+<li> Reach out to your institution's data management experts and support staff for assistance, preferably before you embark on the research.</li>
+<li> Avail yourself of the free and widely available research data management resources online. See Module 5 for more information.</li>
+<li> Give writing a data management plans a go and ask for help on the way. Practice makes perfect!</li>
 <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/under-construction_geek_man_01.png?raw=true" alt="Under Construction sign" style="height:300px;">
 
 This page is currently under construction. For more tips and tricks, come back later.
