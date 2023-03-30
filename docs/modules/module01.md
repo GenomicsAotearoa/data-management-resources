@@ -5,7 +5,7 @@ Here are some tips and tricks that we have found useful in our personal research
 ## Taylor and Atsushi’s advice for emerging researchers
 
 <p>
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:left;height:100px;">
+<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:left;height:120px;">
   
   <li>If you don’t understand a workshop the first time around, it’s ok to sign up and do it again.</li> 
   
@@ -14,7 +14,7 @@ Here are some tips and tricks that we have found useful in our personal research
 </p>
  
 <p>
-  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" alt="Profile image of Dr Atsushi Sato" style="float:right;height:100px;">
+  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" alt="Profile image of Dr Atsushi Sato" style="float:right;height:120px;">
   
   <li>You can learn a lot from working alongside others - organise a hacky group to share solutions and troubleshoot challenges - you will likely find that you will learn shortcuts, quick keys, and handy commands from watching other people work.</li>
 
@@ -26,7 +26,7 @@ Here are some tips and tricks that we have found useful in our personal research
 
 <p>
 
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Darryl-profile.png?raw=true" style="float:left;width:150px;" alt="Profile image of eResearch manager Darryl">
+<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Darryl-profile.png?raw=true" style="float:left;width:120px;" alt="Profile image of eResearch manager Darryl">
 
   <li> Reach out to your institution's data management experts and support staff for assistance, preferably before you embark on the research.</li>
   <li> Avail yourself of the free and widely available research data management resources online. This Hub is a great starting point!</li>
