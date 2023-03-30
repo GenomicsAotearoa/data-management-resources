@@ -11,12 +11,14 @@ While supporting researchers, eResearch teams have their own wants and needs tha
 <p>
 <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Darryl-profile.png?raw=true" style="float:left;width:150px;" alt="Profile image of eResearch manager Darryl">
   
+  
   <b>Information on the research project</b>
   <li>I want to know who is responsible for the data. Who can make decisions about its management?  This can be a person or a group, and preferably there is a clear chain of custody so the data is never orphaned inside the institution.</li>
   <li>Is the research funded? Research funders often require applicants to prepare and submit DMPs as part of their research funding application.</li>
   <li>If the research is funded, are there any allocated funds for research compute & storage?</li>
   <li>I want to know what the project timelines and deliverables are so that I can forecast these needs for the future.</li>
 
+  
   <b>Information on the research data</b>
   <li>I do not want researchers to put all their data in monolithic heaps. I want them to provide unique identification for each data set they want stored. All downstream data management solutions depend on this.</li>
   <li>I want to know what kind of protection the data needs. Is it personal data, sovereign data, commercial data or open data?</li>
@@ -28,7 +30,8 @@ While supporting researchers, eResearch teams have their own wants and needs tha
   <li>I want to know whether data can or should be deleted in the future.</li>
   <li>I want to know what output your research will generate, and whether this data will have value to other researchers?</li>
 
-  <b>###  Information on support needs</b>
+  
+  <b>Information on support needs</b>
   <li>I want to know what resources you will require to carry out your research. Will you need specific hardware, software, additional training or access to technical expertise?</li>
 
 </p>
