@@ -11,7 +11,7 @@
 | HDD | Hard disk drive. |
 | HPC | High performance computing. |
 | metadata | Data describing the spatial and temporal context of the associated genomic data. |
-| MIGS | Minimum Information about a Genome Sequence |
-| MIxS | Minimum Information about any (X) Sequence |
+| MIGS | Minimum Information about a Genome Sequence. |
+| MIxS | Minimum Information about any (X) Sequence. |
 | SSD | Solid state drive. |
 | | |
