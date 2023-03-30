@@ -30,9 +30,8 @@ Here are some tips and tricks that we have found useful in our personal research
 
   <li> Reach out to your institution's data management experts and support staff for assistance, preferably before you embark on the research.</li>
   <li> Avail yourself of the free and widely available research data management resources online. This Hub is a great starting point!</li>
-  <li> Give it a go. Start writing a data management plan before you start your research, and ask for help on the way. Practice makes perfect!</li>
-  <li> Communicate your needs and challenges with your eResearch support team early and often!</li>
   <li> Learn how to keep your documents and processes under version control (using git and similar tools), and make commits often.</li>
+  <li> Give it a go. Start writing a data management plan before you start your research, and ask for help on the way. Practice makes perfect!</li>
+
 </p>
 
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/under-construction_geek_man_01.png?raw=true" alt="Under Construction sign" style="height:300px;">
