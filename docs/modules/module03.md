@@ -1,9 +1,5 @@
 # Module 03 - Hot, warm, and cold data storage
 
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/under-construction_geek_man_01.png?raw=true" alt="Under Construction sign" style="height:300px;">
-
-This page is currently under construction. Come back later.
-
 When it comes to data storage, it can be easy to get lost in a sea of terms and acronyms. Which is better, SSD or HDD? Cloud or hybrid cloud? A cloud of what? Like many things in life, the answer to all of these questions is simple - It depends! 
 
 While storage hardware considerations can be tricky to navigate, it's worth investing time and energy in choosing which storage solutions you need early in the research lifecycle. This is because a sound data storage strategy is your first line of defence against data loss in the event of natural and/or human-derived disaster. In this Module, we’ll briefly explore three classes of storage types: hot, warm and cold, and how storage type may inform data management strategies. Once you find what storage temperatures best suit your needs, we recommend talking to your [eResearch support team](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) to find which hardware solutions best fit the bill. 
