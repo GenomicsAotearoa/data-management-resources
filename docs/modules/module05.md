@@ -14,7 +14,7 @@ A data management plan (DMP), sometimes referred to as a data management and sha
 
 To co-design a DMP that is fit-for-purpose, Professor Nepia leverages her previous experience to balance institutional responsibilities, research objectives, and priorities of Indigenous communities. For instance, the university has a mandate for researchers to provide DMPs, the project aims to generate a large amount of data from hundreds of samples collected at various locations, and Indigenous communities desire to maintain kaitiakitanga. Through conversations between Taylor, Professor Nepia, and key representatives from the Indigenous communities and a government wildlife organisation, Taylor has identified institutional commitments, research requirements, and community needs around the data. They have collated these in a table so they can clearly understand their obligations. 
 
-<--! Table to include here -->
+<!-- Table to include here -->
 
 Professor Nepia and Taylor recognise this will be an iterative and collaborative process, requiring regular engagement with the community so all parties are briefed regularly on progress, and to continue conversations to ensure the resulting DMP will serve the intended purpose while being responsive to change. With this information in hand, Taylor and Professor Nepia are now equipped to begin work on developing a DMP that satisfies these needs. 
 
@@ -26,7 +26,7 @@ Professor Nepia and Taylor recognise this will be an iterative and collaborative
 
 In his role, Dr Sato generates large quantities of intermediate analysis files, and typically hands off data to other collaborators once analysis is complete. He is less concerned with long-term storage requirements, and more with the here-and-now of these datasets. Among these concerns, he observes a shortfall in one of these existing DMPs, that lacks guidance for the potential reuse of key intermediate files. While this small oversight is not the end of the world, he will need to discuss this with his collaborators, who may need to revise this DMP. 
 
-<--! Table to include here -->
+<!-- Table to include here -->
 
 ## The foundation of a DMP
 
