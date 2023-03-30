@@ -15,7 +15,7 @@ For processed data, metadata will also include information such as what software
 
 ## Why should we be collecting and managing metadata?
 
-Metadata should be recorded and managed alongside DSI to ensure that results produced using these data can be placed into the appropriate context. Collation and stewardship of metadata is also essential to ensure that data meet the requirements of the FAIR Principles, and so facilitating the traceability and future use of data. Not only that, but metadata describing the spatiotemporal context for data enables the connection of DSI to Indigenous communities, facilitating benefit-sharing into the future.
+Metadata should be recorded and managed alongside DSI to ensure that results produced using these data can be placed into the appropriate context. Collation and stewardship of metadata is also essential to ensure that data meet the requirements of the FAIR Principles, and so facilitating the traceability and future use of data. Not only that, but metadata describing the spatiotemporal context for data enables the connection of DSI to Indigenous communities, facilitating benefit-sharing into the future as described by the [CARE Principles for Indigenous Data Sovereignty](https://www.gida-global.org/care).
 
 ## How can we best manage metadata?
 
@@ -36,3 +36,4 @@ Tools such as version control, software containers, and workflow management syst
 *[MIxS]: Minimum Information about any (X) Sequence
 *[DSI]: Digital Sequence Information
 *[FAIR Principles]: FAIR Guiding Principles for scientific data management and stewardship, aiming to improve the Findability, Accessibility, Interoperability, and Reuse of data.
+*[CARE Principles]: CARE Principles for Indigenous Data Governance, that aim to ensure that Indigenous Data is managed in such a way as to maintain Collective Benefit, Authority to Control, Responsibility, and Ethics. 
