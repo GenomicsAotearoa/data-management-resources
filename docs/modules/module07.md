@@ -23,7 +23,7 @@ Metadata should be recorded and managed alongside DSI to ensure that results pro
 
 At its core, metadata collation and stewardship all come down to the need for thorough and consistent record-taking and record-keeping throughout the lifespan of a project - from sample collection through to dissemination of results. Starting early will save you from headaches down the track! 
 
-Portals such as the Genomic Observatories MetaDatabase (GEOME) and the Collaborative Open Plant Omics (COPO) allow users to generate template to populate with metadata associated with DSI. By using existing templates, users can ensure that metadata is recorded in ways that are consistent with biodiversity genomics community standards.
+Portals such as the Genomic Observatories MetaDatabase ([GEOME](https://geome-db.org/)) and the Collaborative Open Plant Omics ([COPO](https://copo-project.readthedocs.io/en/latest/copo-about.html)) allow users to generate template to populate with metadata associated with DSI. By using existing templates, users can ensure that metadata is recorded in ways that are consistent with biodiversity genomics community standards.
 
 Tools such as version control, software containers, and workflow management systems can be extremely helpful in tracking metadata during data processing and analysis. These tools can be particularly useful when shared across the research group, along with guidelines for directory structure and file naming conventions, ensuring time-wide consistency.
 
