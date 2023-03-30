@@ -18,7 +18,8 @@ While supporting researchers, eResearch teams have their own wants and needs tha
   <li>If the research is funded, are there any allocated funds for research compute & storage?</li>
   <li>I want to know what the project timelines and deliverables are so that I can forecast these needs for the future.</li>
 </p>
-  
+
+<p>
   <b>Information on the research data</b>
   
   <li>I do not want researchers to put all their data in monolithic heaps. I want them to provide unique identification for each data set they want stored. All downstream data management solutions depend on this.</li>
@@ -30,8 +31,10 @@ While supporting researchers, eResearch teams have their own wants and needs tha
   <li>I want to know if there are plans for the preservation and archiving of the datasets.</li>
   <li>I want to know whether data can or should be deleted in the future.</li>
   <li>I want to know what output your research will generate, and whether this data will have value to other researchers?</li>
-
+</p>
   
+<p>
   <b>Information on support needs</b>
   
   <li>I want to know what resources you will require to carry out your research. Will you need specific hardware, software, additional training or access to technical expertise?</li>
+</p>
