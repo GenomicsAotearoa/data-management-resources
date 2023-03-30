@@ -18,7 +18,7 @@ Here are some tips and tricks that we have found useful in our personal research
   
   <li>You can learn a lot from working alongside others - organise a hacky group to share solutions and troubleshoot challenges - you will likely find that you will learn shortcuts, quick keys, and handy commands from watching other people work.</li>
 
-  <li>We recommend you use programs that can make writing, editing, and running scripts easier, like <a href="[https://www.w3schools.com/](https://code.visualstudio.com/)">Visual Studio Code</a>.</li>
+  <li>We recommend you use programs that can make writing, editing, and running scripts easier, like <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</li>
   
 </p>
 
