@@ -35,3 +35,4 @@ Tools such as version control, software containers, and workflow management syst
 *[MIGS]: Minimum Information about a Genome Sequence
 *[MIxS]: Minimum Information about any (X) Sequence
 *[DSI]: Digital Sequence Information
+*[FAIR Principles]: FAIR Guiding Principles for scientific data management and stewardship, aiming to improve the Findability, Accessibility, Interoperability, and Reuse of data.
