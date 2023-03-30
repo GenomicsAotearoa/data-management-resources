@@ -2,7 +2,7 @@
 
 ## What is metadata?
 
-Metadata in its broadest form is 'the data about the data'. Metadata provides the spatio-temporal context for digital sequence information, and may be vital for interpreting and contextualising results. For biodiversity genomics data (a.k.a. digital sequence information; DSI), the core metadata is defined by community standards such as the [Genomics Standards Consortium](https://www.gensc.org/index.html) and [Biodiversity Information Standards](https://www.tdwg.org/), including the MIgS and [MIxS](https://genomicsstandardsconsortium.github.io/mixs/) specifications. 
+Metadata in its broadest form is 'the data about the data'. Metadata provides the spatio-temporal context for digital sequence information, and may be vital for interpreting and contextualising results. For biodiversity genomics data (a.k.a. digital sequence information; DSI), the core metadata is defined by community standards such as the [Genomics Standards Consortium](https://www.gensc.org/index.html) and [Biodiversity Information Standards](https://www.tdwg.org/), including the MIGS and [MIxS](https://genomicsstandardsconsortium.github.io/mixs/) specifications. 
 
 <!--<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/5Ws+H-Metadata.png?raw=true" alt="An overview of the minimum metadata for genomic data" style="height:400px;">-->
 
@@ -34,6 +34,6 @@ Tools such as version control, software containers, and workflow management syst
 * Yilmaz, et al. (2011). Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications. Nature Biotechnology, 29(5), Article 5. https://doi.org/10.1038/nbt.1823
 
 
-*[MIgS]: Minimum Information about a Genome Sequence
+*[MIGS]: Minimum Information about a Genome Sequence
 *[MIxS]: Minimum Information about any (X) Sequence
 *[DSI]: Digital Sequence Information
