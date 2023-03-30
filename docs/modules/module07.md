@@ -7,7 +7,7 @@ Metadata in its broadest form is 'the data about the data'. Metadata provides th
 <!--<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/5Ws+H-Metadata.png?raw=true" alt="An overview of the minimum metadata for genomic data" style="height:400px;">-->
 
 <figure>
-  <center><img src="../figures/5Ws+H-Metadata.png" alt="The Data Lifecycle" style="width:65%" class="center"></center>
+  <center><img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/5Ws+H-Metadata.png?raw=true" alt="The Data Lifecycle" style="width:60%" class="center"></center>
   <figcaption>
     An overview of the minimum metadata for genomic data.
   </figcaption>
