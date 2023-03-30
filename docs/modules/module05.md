@@ -36,3 +36,4 @@ Attend a course on Data Management at your local institution.
 Reach out to your institution's Data Librarian, Data Stewards, or Research Data Management teams for expert assistance and support.
 
 *[DMP]: Data Management Plan
+*[kaitiakitanga]: (te reo Māori) guardianship, protection  
