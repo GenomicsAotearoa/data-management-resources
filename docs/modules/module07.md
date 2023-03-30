@@ -27,6 +27,13 @@ Portals such as the Genomic Observatories MetaDatabase (GEOME) and the Collabora
 
 Tools such as version control, software containers, and workflow management systems can be extremely helpful in tracking metadata during data processing and analysis. These tools can be particularly useful when shared across the research group, along with guidelines for directory structure and file naming conventions, ensuring time-wide consistency.
 
+## Further reading
+
+* Crandall, E. D. et al. (2023). Importance of timely metadata curation to the global surveillance of genetic diversity. Conservation Biology, 00(e14061). https://doi.org/10.1111/cobi.14061
+* Field, D., et al. (2008). The minimum information about a genome sequence (MIGS) specification. Nature Biotechnology, 26(5), Article 5. https://doi.org/10.1038/nbt1360
+* Yilmaz, et al. (2011). Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications. Nature Biotechnology, 29(5), Article 5. https://doi.org/10.1038/nbt.1823
+
+
 *[MIgS]: Minimum Information about a Genome Sequence
 *[MIxS]: Minimum Information about any (X) Sequence
 *[DSI]: Digital Sequence Information
