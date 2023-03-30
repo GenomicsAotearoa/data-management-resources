@@ -17,9 +17,10 @@ While supporting researchers, eResearch teams have their own wants and needs tha
   <li>Is the research funded? Research funders often require applicants to prepare and submit DMPs as part of their research funding application.</li>
   <li>If the research is funded, are there any allocated funds for research compute & storage?</li>
   <li>I want to know what the project timelines and deliverables are so that I can forecast these needs for the future.</li>
-
+</p>
   
   <b>Information on the research data</b>
+  
   <li>I do not want researchers to put all their data in monolithic heaps. I want them to provide unique identification for each data set they want stored. All downstream data management solutions depend on this.</li>
   <li>I want to know what kind of protection the data needs. Is it personal data, sovereign data, commercial data or open data?</li>
   <li>I want to know who can access the data within these protections. Are there any external collaborators that will require access to the data sets?</li>
@@ -32,6 +33,5 @@ While supporting researchers, eResearch teams have their own wants and needs tha
 
   
   <b>Information on support needs</b>
+  
   <li>I want to know what resources you will require to carry out your research. Will you need specific hardware, software, additional training or access to technical expertise?</li>
-
-</p>
