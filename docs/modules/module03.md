@@ -6,14 +6,14 @@ While storage hardware considerations can be tricky to navigate, it's worth inve
 
 The differences between storage types have less to do with spice level or temperature and more to do with the speed of read and write access. The hotter the storage, the faster the speed of access. However, the faster the access speed, the more expensive it is. These two considerations will determine your usage. While analysing data, you will want the fastest access possible, and therefore the hottest storage option. For long-term storage, colder options with slower access and lower costs will do the trick. 
 
-For consistency within research groups, it may be helpful to decide as a group which data/file types require which storage temperatures to maximise efficiency, maintain data security, and meet the needs specified in DMPs. Regardless of how hot or cold your storage is, it’s important to make sure sufficient metadata (see [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/)) is collated alongside your data to support other users (including future you!) in navigating directories and understanding file contents. 
-
 <figure>
   <center><img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Hot-warm-cold-storage-transparent.png?raw=true" alt="Data storage temperatures" style="width:85%" class="center"></center>
   <figcaption>
     A comparison of factors associated with different data storage temperatures, from hot to cold.
   </figcaption>
 </figure>
+
+For consistency within research groups, it may be helpful to decide as a group which data/file types require which storage temperatures to maximise efficiency, maintain data security, and meet the needs specified in DMPs. Regardless of how hot or cold your storage is, it’s important to make sure sufficient metadata (see [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/)) is collated alongside your data to support other users (including future you!) in navigating directories and understanding file contents. 
 
 ## What is hot storage?
 
