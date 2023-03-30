@@ -21,7 +21,7 @@ We present a simplified figure describing the data lifecycle within the broader 
 
 [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you
 
-[Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Designing, co-developing, and adapting data management plans
+[Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Data Management Plans in practice
 
 [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations
 
