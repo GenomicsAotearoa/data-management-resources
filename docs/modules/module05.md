@@ -56,17 +56,17 @@ The [Digital Curation Centre](https://www.dcc.ac.uk/guidance/how-guides/develop-
 
 ### Online resources for developing Data Management Plans
 
-Use a checklist to see if you need to create a DMP: https://www.dcc.ac.uk/guidance/how-guides
+* Use a checklist to see if you need to create a DMP: https://www.dcc.ac.uk/guidance/how-guides
 
-Check out [10 simple rules for creating a good DMP](https://datamanagement.hms.harvard.edu/plan-design/data-management-plans) which provides useful guidelines on what to include in DMPs. 
+* Check out [10 simple rules for creating a good DMP](https://datamanagement.hms.harvard.edu/plan-design/data-management-plans) which provides useful guidelines on what to include in DMPs. 
 
-To create your own DMP, you can try out the Digital Curation Centre's [Data Management Plan Tool](https://dmponline.dcc.ac.uk/), or the [Data Stewardship Wizard](https://ds-wizard.org/), which is used Horizon Europe and other funding bodies, and which incorporates version control.
+* To create your own DMP, you can try out the Digital Curation Centre's [Data Management Plan Tool](https://dmponline.dcc.ac.uk/), or the [Data Stewardship Wizard](https://ds-wizard.org/), which is used Horizon Europe and other funding bodies, and which incorporates version control.
 
 ### Other ways to learn about Data Management Plans
 
-Attend a course on Data Management at your local institution.
+* Attend a course on Data Management at your local institution.
 
-Reach out to your institution's Data Librarian, Data Stewards, or Research Data Management teams for expert assistance and support.
+* Reach out to your institution's Data Librarian, Data Stewards, or Research Data Management teams for expert assistance and support.
 
 *[DMP]: Data Management Plan
 *[kaitiakitanga]: (te reo Māori) guardianship, protection  
