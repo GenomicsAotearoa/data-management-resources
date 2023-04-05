@@ -14,7 +14,11 @@ A data management plan (DMP), sometimes referred to as a data management and sha
 
 To co-design a DMP that is fit-for-purpose, Professor Nepia leverages her previous experience to balance institutional responsibilities, research objectives, and priorities of Indigenous communities. For instance, the university has a mandate for researchers to provide DMPs, the project aims to generate a large amount of data from hundreds of samples collected at various locations, and Indigenous communities desire to maintain kaitiakitanga. Through conversations between Taylor, Professor Nepia, and key representatives from the Indigenous communities and a government wildlife organisation, Taylor has identified institutional commitments, research requirements, and community needs around the data. They have collated these in a table so they can clearly understand their obligations. 
 
-<!-- Table to include here -->
+| What | When | Where| Who |
+|--|--|--|--|
+| Protection requirements being actively discussed by decision-makers | Start date: ASAP | Processing & storage: Institutional computation and storage resources | Data custodian: Professor Nepia on behalf of Indigenous community during the research lifecycle and beyond |
+| Metadata: project title, funding organisatioin, project ID, species, sample IDs, geographic location, collection date, details of ethics permits, Indigenous affiliations, primary contact details | Project duration: 4 years | DMP in development | Different groups involved with data collection and generation: - govt org for species monitoring, Taylor - sample collection with Indigenous community members, extracting DNA and preparing libraries, sequencing facility producing the raw sequence data, analysing data and generating outputs |
+|||||
 
 Professor Nepia and Taylor recognise this will be an iterative and collaborative process, requiring regular engagement with the community so all parties are briefed regularly on progress, and to continue conversations to ensure the resulting DMP will serve the intended purpose while being responsive to change. With this information in hand, Taylor and Professor Nepia are now equipped to begin work on developing a DMP that satisfies these needs. 
 
