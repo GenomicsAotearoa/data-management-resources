@@ -33,9 +33,15 @@ Professor Nepia and Taylor recognise this will be an iterative and collaborative
   
 In Dr Sato’s case, leveraging datasets with different data management requirements is not uncommon. He relies on collaborators to provide a well-defined DMP alongside the data. He is tasked with the role of identifying the practical intersection between technical aspects such as data storage and compute, and governance as determined by existing DMPs. While Taylor and Professor Nepia are concerned with development of a DMP, Dr Sato has to adhere to DMPs that have been defined by collaborators. 
 
-In his role, Dr Sato generates large quantities of intermediate analysis files, and typically hands off data to other collaborators once analysis is complete. He is less concerned with long-term storage requirements, and more with the here-and-now of these datasets. Among these concerns, he observes a shortfall in one of these existing DMPs, that lacks guidance for the potential reuse of key intermediate files. While this small oversight is not the end of the world, he will need to discuss this with his collaborators, who may need to revise this DMP. 
+In his role, Dr Sato generates large quantities of intermediate analysis files, and typically hands off data to other collaborators once analysis is complete. He is less concerned with long-term storage requirements, and more with the here-and-now of these datasets. Similarly to Taylor, he has created a table of his data management concerns and considerations.
 
-<!-- Table to include here -->
+| Who | What | When | Where | Why | How |
+|--|--|--|--|--|--|
+| Project: Climate change impacts on adaptation of fisheries stocks | Secure data transfer required, with no access-sharing without approval | Data generated at external institutions iteratively over past 5 years | Very comprehensive metadata supplied by collaborators | Computationally intensive so requires national HPC infrastructure | Some data being reused for purposes other than that initially determined |
+| Collaborators leading the project are acting as data custodians and decision-makers for data management | | I intend to complete work on this project within the next 6 months | DMP provided by collaborators| | Supplied data and outputs to be deleted following delivery of results as per DMP |
+| Data supplied is BAM/CRAM alignment and variant call files including thousands of samples along with climate data, on the order of terabytes | |  | Analysed data to be returned to collaborators, supplied data to be deleted on completion | | Accessed on the national compute infrastructure via my private project directory |
+
+Among these concerns, he observes a shortfall in one of these existing DMPs, that lacks guidance for the potential reuse of key intermediate files. While this small oversight is not the end of the world, he will need to discuss this with his collaborators, who may need to revise this DMP. 
 
 ## The foundation of a DMP
 
@@ -77,4 +83,5 @@ The [Digital Curation Centre](https://www.dcc.ac.uk/guidance/how-guides/develop-
 
 *[DMP]: Data Management Plan
 *[DSI]: Digital sequence information
+*[HPC]: High performance computing
 *[kaitiakitanga]: (te reo Māori) guardianship, protection  
