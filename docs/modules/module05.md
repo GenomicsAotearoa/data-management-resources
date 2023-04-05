@@ -16,9 +16,12 @@ To co-design a DMP that is fit-for-purpose, Professor Nepia leverages her previo
 
 | What | When | Where| Who |
 |--|--|--|--|
-| Protection requirements being actively discussed by decision-makers | Start date: ASAP | Processing & storage: Institutional computation and storage resources | Data custodian: Professor Nepia on behalf of Indigenous community during the research lifecycle and beyond |
-| Metadata: project title, funding organisatioin, project ID, species, sample IDs, geographic location, collection date, details of ethics permits, Indigenous affiliations, primary contact details | Project duration: 4 years | DMP in development | Different groups involved with data collection and generation: - govt org for species monitoring, Taylor - sample collection with Indigenous community members, extracting DNA and preparing libraries, sequencing facility producing the raw sequence data, analysing data and generating outputs |
-|||||
+| Project: whole genome resequencing of a lizard species, many individuals sampled from across the species range sequenced to moderate depth, a reference genome sequenced and assembled  | Start date: ASAP | Processing & storage: Institutional computation and storage resources | Data custodian: Professor Nepia on behalf of Indigenous community during the research lifecycle and beyond |
+| Metadata: project title, funding organisation, project ID, species, sample IDs, geographic location, collection date, details of ethics permits, Indigenous affiliations, primary contact details | Project duration: 4 years | DMP in development | Different groups involved with data collection and generation: government organisation - long-term species monitoring, Taylor - sample collection with Indigenous community members, extracting DNA and preparing libraries, sequencing facility producing the raw sequence data, analysing data and generating outputs |
+| Data types: blood and/or tissue samples, raw sequence data to come, environmental data. Blood tissue samples will be held on behalf of the Indigenous communities at the university during the project lifecycle. | Sequencing to be generated within the next 12 months | Agreement with local sequencing facility for data generation and secure transfer | Decision-making is in partnership - key representatives of government organisation and Indigenous community, with context for decisions provided by Professor Nepia |
+| File types to be generated: FASTQ sequence files, genome assembly files, BAM alignment files, variant call files, spreadsheets, analysis results || Sampling notes in hard copy (field notebooks) with key metadata transcribed into spreadsheets housed in institutional cold storage | Potential for reuse by researchers internally/externally - but conditions for this yet to be determined |
+| Data protection requirements and potential data reuse are being actively discussed by decision-makers | | | |
+| DSI volume be generated: on the order of terabytes. Keeping Darryl appraised of data storage needs will help the eResearch team allocate appropriate resources to the project. | | | |
 
 Professor Nepia and Taylor recognise this will be an iterative and collaborative process, requiring regular engagement with the community so all parties are briefed regularly on progress, and to continue conversations to ensure the resulting DMP will serve the intended purpose while being responsive to change. With this information in hand, Taylor and Professor Nepia are now equipped to begin work on developing a DMP that satisfies these needs. 
 
@@ -73,4 +76,5 @@ The [Digital Curation Centre](https://www.dcc.ac.uk/guidance/how-guides/develop-
 * Reach out to your institution's Data Librarian, Data Stewards, or Research Data Management teams for expert assistance and support.
 
 *[DMP]: Data Management Plan
+*[DSI]: Digital sequence information
 *[kaitiakitanga]: (te reo Māori) guardianship, protection  
