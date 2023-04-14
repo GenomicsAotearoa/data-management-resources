@@ -1,6 +1,8 @@
 # Module 04 - Helping eResearch support staff help you
 
-To best support research groups with their data management needs, eResearch support staff require context and clarification to deliver appropriate solutions. The more information they have, the better the wrap-around solutions can be delivered. It may be helpful to consider the following list of needs and questions from an eResearch support person, both during conversations with eResearch support staff, but also when developing DMPs. Not all of these questions can be answered at the outset of a project, but it can be helpful to keep them in mind for the future.
+When first trying to navigate your institution's framework for data storage and management can be a lot like travelling through a new city when your phone has died. You have a vague sense on the direction, but no idea of what you're looking for or how to get there. But never fear, eResearch support staff are here to help!  
+# touchstone
+But there is one caveat, to best support research groups with their data management needs, eResearch support staff require context and clarification to deliver appropriate solutions. The more information they have, the better the wrap-around solutions can be delivered. It may be helpful to consider the following list of needs and questions from an eResearch support person, both during conversations with eResearch support staff, but also when developing DMPs. Not all of these questions can be answered at the outset of a project, but it can be helpful to keep them in mind for the future.
 
 ![The who, what, when, where, why, and how of data management](../figures/5Ws-eResearch-support-staff-draft-v2.png)
 
