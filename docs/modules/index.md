@@ -17,9 +17,9 @@ Below we present a simplified overview of the data lifecycle within the broader 
 
 [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/) - The ethics and benefits of good data management practices
 
-[Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Hot, warm, and cold data storage ![Storage box](../figures/box.png) ![Analysis](../figures/analyzing.png) 
+[Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Hot, warm, and cold data storage <i class="fa fa-archive" aria-hidden="true"></i> 
 
-[Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you ![Lightbulb idea](../figures/idea.png) 
+[Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
 
 [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Data Management Plans in practice 
 
@@ -27,7 +27,7 @@ Below we present a simplified overview of the data lifecycle within the broader 
 
 [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata management
 
-[Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Daily data management - workflow management, version control, and dependency management ![DNA](../figures/dna.png) ![Analysis](../figures/analyzing.png) 
+[Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Daily data management - workflow management, version control, and dependency management <i class="fas fa-dna"></i> <i class="fas fa-desktop"></i> 
 
 [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Templates for data management
 
