@@ -17,9 +17,9 @@ Below we present a simplified overview of the data lifecycle within the broader 
 
 [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/) - The ethics and benefits of good data management practices
 
-[Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Hot, warm, and cold data storage :fa-lightbulb-o: 
+[Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Hot, warm, and cold data storage fa-lightbulb-o
 
-[Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you :fa-lightbulb-o:
+[Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you fa-lightbulb-o
 
 [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Data Management Plans in practice 
 
