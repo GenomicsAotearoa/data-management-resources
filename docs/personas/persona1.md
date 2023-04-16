@@ -13,8 +13,7 @@ Taylor’s main concerns are around ensuring Indigenous data sovereignty and gov
 ## Taylor’s key questions in their data management journey
 
 * Why is data management important? -> See [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/) -  The ethics and benefits of good data management practices.
-* Where can I look for help? -> See [Module 10](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Best practice data management resources.
-* What is metadata, and how should I manage it? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata, [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Templates for data management.
-* How can I structure directories for raw data and analysis? -> See [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Templates for data management.
+* What is metadata, and how should I manage it? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata.
+* How can I structure directories for raw data and analysis? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Incorporating data management into daily practice.
 * How can I incorporate Indigenous data sovereignty perspectives in my data management practices? -> See [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations.
-* How can I incorporate data management in my daily workflows? -> See [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Top tips and tricks to make data management easy, [Module 10](https://genomicsaotearoa.github.io/data-management-resources/modules/module10/) - Daily data management.
+* How can I incorporate data management in my daily workflows? -> See [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Top tips and tricks to make data management easy, [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Incorporating data management into daily practice.
