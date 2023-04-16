@@ -4,6 +4,7 @@
 
 This page is currently under construction. Come back later.
 
+!!! lightbulb
 
 Knowing where to start can be one of the hardest parts of the data management journey, but getting good practices in place early will save you from headaches down the track. There is a wealth of existing information on these and other important concepts for the research lifecycle, with this Module acting as a 'quick start' guide, giving a brief overview of important considerations such as directory structure and file naming conventions, the use of version control, and workflow management. 
 
