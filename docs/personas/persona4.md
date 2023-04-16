@@ -10,7 +10,7 @@ Recently, [Professor Nepia](https://genomicsaotearoa.github.io/data-management-r
 
 Through conversations with researchers and research groups, Darryl can gain a clear vision of what they are trying to achieve. At the same time, Darryl holds the awareness of the constraints arising from institutional infrastructure, and the responsibilities of the researcher under national and institutional legislation. 
 
-![The data maangement information Institutional eResearch Manager Darryl Baker seeks to support researchers](../figures/Scenario4-v2.png)
+![The data management information that Institutional eResearch Manager Darryl Baker seeks in order to support researchers](../figures/Scenario4-v2.png)
 
 ## Darryl’s key questions to support research groups in their data management journeys
 
