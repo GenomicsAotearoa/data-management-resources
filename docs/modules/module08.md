@@ -15,51 +15,50 @@ Whatever your approach, we recommend consistency above all else. Maintaining com
  
 As an emerging biodiversity genomics researcher, the initial question you will have when you receive your first batch of genomic data is likely to be: *What do I do with this?* Your first step should always be to ensure that you keep an untouched backup copy of the raw data in [cold storage](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/). All relevant [metadata](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) should be stored alongside the raw data (for example, in README files.
 
+
 !!! info "Validating data transfer"
-
-  Whenever you transfer data, you will want to validate it, to ensure that the transfer completed with no errors and the files are intact. [Checksums](https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/checksums/the-importance-of-checksums) are a key validation tool. A checksum for a given file will always be the same no matter where the file is. 
-
-  Generating and validating checksums is a straightforward process.
-
-  !!! terminal "script"
-
-    To generate a checksum for a the raw file in your local directory:
-
-    ```bash
-      md5sum raw-data.fastq.gz > raw-data.md5
-    ```
-
-    !!! quote ""
-      On Mac, you will use the `md5` command rather than `md5sum`.
-      ```bash
-      md5 raw-data.fastq.gz > raw-data.md5
-      ```
     
-    To generate checksums for multiple FASTQ files:
+    Whenever you transfer data, you will want to validate it, to ensure that the transfer completed with no errors and the files are intact. [Checksums](https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/checksums/the-importance-of-checksums) are a key validation tool. A checksum for a given file will always be the same no matter where the file is.
 
-    ```bash
-      md5sum ./*.fastq.gz > md5sums.txt
-    ```
-  
-    The output text file will contain a list of the checksums for each of the compressed FASTQ files in the directory.
+    !!! terminal "script"
 
-    !!! quote ""
-    
-      The checksum file produced will look something like this:
-    
-      ```bash
-        c6779ec2960296ed9a04f08d67f64422 ./raw-data-1.fastq.gz
-        002c33835b3921d92d8074f3b392ef65 ./raw-data-2.fastq.gz
-      ```
-  
-    Then to validate the transferred file, copy the output checksum file to the transferred location, and then perform the check:
-  
-    ```bash
-      cp ./md5sums.txt /final-destination/
-      md5sum -c file.md5
-    ```
- 
-  Each validated checksum will display `OK`, while a mismatched checksum will display `FAILED`. If you get a `FAILED` file, you will need to redo the file transfer and re-validate.
+        To generate a checksum for a the raw file in your local directory:
+
+        ```bash
+          md5sum raw-data.fastq.gz > raw-data.md5
+        ```
+
+        !!! quote ""
+          On Mac, you will use the `md5` command rather than `md5sum`.
+          ```bash
+          md5 raw-data.fastq.gz > raw-data.md5
+          ```
+
+        To generate checksums for multiple FASTQ files:
+
+        ```bash
+          md5sum ./*.fastq.gz > md5sums.txt
+        ```
+
+        The output text file will contain a list of the checksums for each of the compressed FASTQ files in the directory.
+
+        !!! quote ""
+
+          The checksum file produced will look something like this:
+
+          ```bash
+            c6779ec2960296ed9a04f08d67f64422 ./raw-data-1.fastq.gz
+            002c33835b3921d92d8074f3b392ef65 ./raw-data-2.fastq.gz
+          ```
+
+        Then to validate the transferred file, copy the output checksum file to the transferred location, and then perform the check:
+
+        ```bash
+          cp ./md5sums.txt /final-destination/
+          md5sum -c file.md5
+        ```
+
+      Each validated checksum will display `OK`, while a mismatched checksum will display `FAILED`. If you get a `FAILED` file, you will need to redo the file transfer and re-validate.
 
 
 ### Directory structure
