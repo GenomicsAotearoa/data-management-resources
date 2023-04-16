@@ -28,37 +28,29 @@ As an emerging biodiversity genomics researcher, the initial question you will h
           md5sum raw-data.fastq.gz > raw-data.md5
         ```
 
-        !!! quote ""
-          On Mac, you will use the `md5` command rather than `md5sum`.
-          ```bash
-          md5 raw-data.fastq.gz > raw-data.md5
-          ```
-
+        If you are on a Mac, replace the `md5sum` command with `md5`.
+       
         To generate checksums for multiple FASTQ files:
 
         ```bash
           md5sum ./*.fastq.gz > md5sums.txt
         ```
 
-        The output text file will contain a list of the checksums for each of the compressed FASTQ files in the directory.
+        The output text file will contain a list of the checksums for each of the compressed FASTQ files in the directory. The checksum file produced will look something like this, where the alphanumeric code is the checksum hash value:
 
-        !!! quote ""
+        ```bash
+          c6779ec2960296ed9a04f08d67f64422 ./raw-data-1.fastq.gz
+          002c33835b3921d92d8074f3b392ef65 ./raw-data-2.fastq.gz
+        ```
 
-          The checksum file produced will look something like this:
-
-          ```bash
-            c6779ec2960296ed9a04f08d67f64422 ./raw-data-1.fastq.gz
-            002c33835b3921d92d8074f3b392ef65 ./raw-data-2.fastq.gz
-          ```
-
-        Then to validate the transferred file, copy the output checksum file to the transferred location, and then perform the check:
+        Then to validate the transferred file, copy the output checksum file to the transferred location, and perform the check:
 
         ```bash
           cp ./md5sums.txt /final-destination/
           md5sum -c file.md5
         ```
 
-      Each validated checksum will display `OK`, while a mismatched checksum will display `FAILED`. If you get a `FAILED` file, you will need to redo the file transfer and re-validate.
+        Each validated checksum will display `OK`, while a mismatched checksum will display `FAILED`. If you get a `FAILED` file, you will need to redo the file transfer and re-validate.
 
 
 ### Directory structure
