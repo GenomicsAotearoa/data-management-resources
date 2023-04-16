@@ -293,3 +293,9 @@
     -webkit-mask-image: var(--md-admonition-icon--lightbulb);
             mask-image: var(--md-admonition-icon--lightbulb);
   }
+
+
+.lightbulb {
+  color: #e40808;
+}
+
