@@ -18,11 +18,11 @@ As an emerging biodiversity genomics researcher, the initial question you will h
 
 !!! info "Validating data transfer"
     
-    Whenever you transfer data, you will want to validate it, to ensure that the transfer completed with no errors and the files are intact. [Checksums](https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/checksums/the-importance-of-checksums) are a key validation tool. A checksum for a given file will always be the same no matter where the file is.
+    Whenever you transfer data, you will want to validate it, to ensure that the transfer completed with no errors and the files are intact. [Checksums](https://www.archives.govt.nz/manage-information/how-to-manage-your-information/digital/checksums/the-importance-of-checksums) are a key validation tool. A checksum for a given file will always be the same no matter whether the file is moved or copied.
 
     !!! terminal "script"
 
-        To generate a checksum for a the raw file in your local directory:
+        To generate a checksum for a raw compressed FASTQ file in your local directory:
 
         ```bash
           md5sum raw-data.fastq.gz > raw-data.md5
@@ -57,7 +57,7 @@ As an emerging biodiversity genomics researcher, the initial question you will h
 
 With that done, you next want to move the data to your analysis space, and set up your directory (folder) structure. Having clearly structured directories keeps things tidy, and ensures that you can always tell where you are up to in your analysis pipeline. It is very likely that the first thing you want to check will be the quality of your raw data, so here we present an example directory structure suitable for that.
 
-  ```bash
+  ```
     .
     |--- first-sequencing-project/
     |	|--- raw-data/
