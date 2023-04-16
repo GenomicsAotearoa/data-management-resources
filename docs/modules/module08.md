@@ -63,7 +63,7 @@ As an emerging biodiversity genomics researcher, the initial question you will h
 
 ### Directory structure
 
-With that done, you next want to move the data to your analysis space, and set up your directory (folder) structure. Having clearly structured directories keeps things tidy, and ensures that you can always tell where you are up to in your analysis pipeline. It is very likely that the first thing you want to check will be the quality of your raw data, so let’s set up a directory structure suitable for that.
+With that done, you next want to move the data to your analysis space, and set up your directory (folder) structure. Having clearly structured directories keeps things tidy, and ensures that you can always tell where you are up to in your analysis pipeline. It is very likely that the first thing you want to check will be the quality of your raw data, so here we present an example directory structure suitable for that.
 
   ```bash
     .
