@@ -30,3 +30,6 @@ Through this hub, we aim to empower the biodiversity genomics community to minim
 
 *[FAIR Principles]: FAIR Guiding Principles for scientific data management and stewardship, aiming to improve the Findability, Accessibility, Interoperability, and Reuse of data.
 *[CARE Principles]: CARE Principles for Indigenous Data Governance, aiming to ensure that Indigenous Data is managed in such a way as to maintain Collective Benefit, Authority to Control, Responsibility, and Ethics.
+
+!!! lightbulb "Module 1"
+    Testing the module icon
