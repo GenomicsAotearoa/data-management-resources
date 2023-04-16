@@ -61,12 +61,13 @@ Generating and validating checksums is a straightforward process.
   md5sum -c file.md5
   ```  
   Each validated checksum will display `OK`, while a mismatched checksum will display `FAILED`. If you get a `FAILED` file, you will need to redo the file transfer and re-validate.
-```
+
 
 ### Directory structure
 
 With that done, you next want to move the data to your analysis space, and set up your directory (folder) structure. Having clearly structured directories keeps things tidy, and ensures that you can always tell where you are up to in your analysis pipeline. It is very likely that the first thing you want to check will be the quality of your raw data, so let’s set up a directory structure suitable for that.
 
+```bash
 .
 |--- first-sequencing-project/
 |	|--- raw-data/
@@ -75,6 +76,7 @@ With that done, you next want to move the data to your analysis space, and set u
 |		|--- 01-fastqc.sh
 |	|--- outputs/ 
 |		|--- 01-fastqc/
+```
 
 Here you can see the top level directory `first-sequencing-project/` will contain everything to do with this project all in one place. Within this project directory there are three subdirectories: `raw-data/`, `scripts/`, and `outputs/`. By using simple, clear naming, the directory structure should be self-explanatory. 
 
