@@ -19,3 +19,5 @@ Through conversations with researchers and research groups, Darryl can gain a cl
 * How is the data intended to be stored, and for how long? See [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Hot, warm, and cold data storage.
 * Is the data properly labelled, and is there associated metadata? See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata.
 * Are there any additional considerations around the data? See [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations, [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you.
+
+*[DMP]: Data Management Plan
