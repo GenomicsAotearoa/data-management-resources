@@ -11,14 +11,15 @@
 | eResearch | The use of digital tools and techniques to advance research. |
 | eResearch and library support staff | A broad group that includes research software engineers, research infrastructure developers, data scientists, data stewards, and other professional services staff that deliver library, IT, bioinformatics, and high-performance compute support. |
 | FAIR Principles | [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/) for scientific data management and stewardship, aiming to improve the Findability, Accessibility, Interoperability, and Reuse of data. |
+| GPU | Graphics processing unit. Often used to accelerate data processing. |
 | HDD | Hard disk drive. |
 | HPC | High performance computing. |
 | Indigenous Data | The tangible and/or intangible cultural materials, belongings, knowledge, digital data, and information about Indigenous Peoples or that to which they relate. |
 | Indigenous Data Sovereignty | The management of Indigenous data in ways that align with the laws, practices, and customs of the associated nation. |
-| metadata | Data describing the spatial and temporal context of the associated genomic data. |
+| metadata | Data that provides information about other data. For biodiversity genomic data, metadata can provide information regarding context (e.g., taxonomic, spatial, temporal, and associated permissions) as well as used technologies/methodologies. |
 | MIGS | Minimum Information about a Genome Sequence. |
 | MIxS | Minimum Information about any (X) Sequence. |
 | Open data | Data anyone can use and share, typically openly accessible and with an open licence. |
 | research lifecycle | The steps in the process of scientific research from inception (research planning, design, and funding) to completion (dissemination of results and real-world impact), which often leads back to development of new related projects. The research and data lifecycles are distinct but interrelated. |
 | SSD | Solid state drive. |
-| | |
+| VM | Virtual machine. A software-based computer system emulating that of a different physical machine. VMs are often used to run a different operating system than that of the primary system of the physical computer. |
