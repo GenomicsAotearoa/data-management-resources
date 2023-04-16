@@ -2,7 +2,7 @@
 
 ## What is metadata?
 
-Metadata in its broadest form is 'the data about the data'. Metadata provides the spatio-temporal context for digital sequence information, and may be vital for interpreting and contextualising results. For biodiversity genomics data (a.k.a. digital sequence information; DSI), the core metadata is defined by community standards such as the [Genomics Standards Consortium](https://www.gensc.org/index.html) and [Biodiversity Information Standards](https://www.tdwg.org/), including the MIGS and [MIxS](https://genomicsstandardsconsortium.github.io/mixs/) specifications. 
+Metadata in its broadest form is 'the data about the data'. Metadata provides the spatio-temporal context for digital sequence information, and may be vital for interpreting and contextualising results. For biodiversity genomic data (a.k.a. digital sequence information; DSI), the core metadata is defined by community standards such as the [Genomics Standards Consortium](https://www.gensc.org/index.html) and [Biodiversity Information Standards](https://www.tdwg.org/), including the MIGS and [MIxS](https://genomicsstandardsconsortium.github.io/mixs/) specifications. 
 
 <figure>
   <center><img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/5Ws+H-Metadata.png?raw=true" alt="The Data Lifecycle" style="width:65%" class="center"></center>

@@ -13,7 +13,7 @@ Whatever your approach, we recommend consistency above all else. Maintaining com
 
 ## Data management fundamentals
  
-As an emerging biodiversity genomics researcher, the initial question you will have when you receive your first batch of genomic data is likely to be: *What do I do with this?* Your first step should always be to ensure that you keep an untouched backup copy of the raw data in [cold storage](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/). All relevant [metadata](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) should be stored alongside the raw data (for example, in README files.
+As an emerging biodiversity genomic researcher, the initial question you will have when you receive your first batch of genomic data is likely to be: *What do I do with this?* Your first step should always be to ensure that you keep an untouched backup copy of the raw data in [cold storage](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/). All relevant [metadata](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) should be stored alongside the raw data (for example, in README files.
 
 
 !!! info "Validating data transfer"
