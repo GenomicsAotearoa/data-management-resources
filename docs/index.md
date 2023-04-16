@@ -33,3 +33,8 @@ Through this hub, we aim to empower the biodiversity genomics community to minim
 
 !!! lightbulb "Module 1"
     Testing the module icon
+
+
+some text :fontawesome-solid-lightbulb: here
+
+some text :fontawesome-solid-lightbulb:{ .lightbulb } here
