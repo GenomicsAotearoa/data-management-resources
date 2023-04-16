@@ -10,8 +10,14 @@ While Dr Sato’s skills are in high demand, he has been persistently employed o
 
 ![The data management needs of postdoctoral researcher Dr Atsushi Sato](../figures/Scenario2-v4.png)
 
+Mouse-over for definitions: DMP, HPC, GPU.
+
 ## Dr Sato’s key questions in his data management journey
 
-* How can I embed data management processes in my daily workflows? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Daily data management, [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module11/) - Top tips and tricks to make data management easy.
+* How can I embed data management processes in my daily workflows? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Incorporating data management into daily practice, [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module11/) - Top tips and tricks to make data management easy.
 * How do I ensure interoperability across large genomic and environmental data sets? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why, and how of metadata management.
 * How can I get help with getting access to analysis and storage resources? -> See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch support staff help you.
+
+*[DMP]: Data Management Plan
+*[HPC]: High performance computing
+*[GPU]: Graphics processing unit. Often used to accelerate data processing. 
