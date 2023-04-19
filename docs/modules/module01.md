@@ -16,7 +16,7 @@ In this module we outline some tips and tricks that we have found hand for our o
 <p>
   <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" alt="Profile image of Dr Atsushi Sato" style="float:right;height:120px;">
   
-  <li>You can learn a lot from working alongside others - organise a hacky group to share solutions and troubleshoot challenges - you will likely find that you will learn shortcuts, quick keys, and handy commands from watching other people work.</li>
+  <li>You can learn a lot from working alongside others - organise a hacky group to share solutions and troubleshoot challenges. You will likely find that you will learn shortcuts, quick keys, and handy commands from watching other people work.</li>
 
   <li>We recommend you use programs that can make writing, editing, and running scripts easier, like <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</li>
   
@@ -28,9 +28,9 @@ In this module we outline some tips and tricks that we have found hand for our o
 
 <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Darryl-profile.png?raw=true" style="float:left;width:120px;" alt="Profile image of eResearch manager Darryl">
 
-  <li> Reach out to your institution's data management experts and support staff for assistance. Ideally before you embark on your research.</li>
+  <li> Reach out to your institution's data management experts and support staff for assistance - ideally early in the research lifecycle.</li>
   <li> Avail yourself of the free and widely available research data management resources online. This Hub is a great starting point!</li>
   <li> Learn how to keep your documents and processes under version control (using git and similar tools), and make commits often.</li>
-  <li> Give it a go. Start writing a data management plan before you start your research, and ask for help on the way. Practice makes perfect!</li>
+  <li> Give it a go. Start writing a data management plan before you start your research, and ask for help along the way. Practice makes perfect!</li>
 
 </p>
