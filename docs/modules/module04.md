@@ -1,12 +1,12 @@
-# Module 04 - Helping eResearch support staff help you
+# Module 04 - Helping eResearch and libraries staff help you
 
-When first trying to navigate your institution's framework for data storage and management can be a lot like travelling through a new city when your phone battery has died. You have a vague sense of the direction, but no idea of what you're looking for or how to get there. But never fear, eResearch support staff are here to help!  
+When first trying to navigate your institution's framework for data storage and management can be a lot like travelling through a new city when your phone battery has died. You have a vague sense of the direction, but no idea of what you're looking for or how to get there. But never fear, eResearch and libraries staff are here to help!  
 
-There is one caveat to this: to best support research groups with their data management needs, eResearch support staff require context and clarification to enable them to design and deliver appropriate solutions. The more information they have, the better the solutions. It may be helpful to consider the following list of needs and questions from an eResearch support person, both during conversations with eResearch support staff, but also when developing DMPs. Not all of these questions can be answered at the outset of a project, but it can be helpful to keep them in mind for the future.
+There is one caveat to this: to best support research groups with their data management needs, eResearch and libraries staff require context and clarification to enable them to design and deliver appropriate solutions. The more information they have, the better the solutions. It may be helpful to consider the following list of needs and questions from an eResearch support person, both during conversations with eResearch and libraries staff, but also when developing DMPs. Not all of these questions can be answered at the outset of a project, but it can be helpful to keep them in mind as you progress along the data lifecycle.
 
 ![The who, what, when, where, why, and how of data management](../figures/5Ws-eResearch-support-staff-draft-v2.png)
 
-## What eResearch support teams want from researchers
+## What eResearch and libraries staff want from researchers
 
 While supporting researchers, eResearch teams have their own wants and needs that must be met to ensure they can deliver wrap-around data management solutions. Some of these include:
 
