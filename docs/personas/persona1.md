@@ -14,7 +14,11 @@ Mouse-over for definitions: DMP, HPC, IDSov, VM. See the [Glossary](https://geno
 
 ## Taylor’s key questions in their data management journey
 
-* Why is data management important? -> See [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/) -  The ethics and benefits of good data management practices.
+| Question | Associated module providing solutions | 
+|:--|:--|
+| Why is data management important? | [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/){ .md-button .md-button--primary } -  The ethics and benefits of good data management practices |
+
+
 * What is metadata, and how should I manage it? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata.
 * How can I structure directories for raw data and analysis? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Incorporating data management into daily practice.
 * How can I incorporate Indigenous data sovereignty perspectives in my data management practices? -> See [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations.
