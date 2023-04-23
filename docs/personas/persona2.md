@@ -10,7 +10,7 @@ While Dr Sato’s skills are in high demand, he has been persistently employed o
 
 ![The data management needs of postdoctoral researcher Dr Atsushi Sato](../figures/Persona2.png)
 
-Mouse-over for definitions: DMP, HPC, GPU.
+Mouse-over for definitions: DMP, HPC, GPU. See the [Glossary](https://genomicsaotearoa.github.io/data-management-resources/glossary/) for more details. 
 
 ## Dr Sato’s key questions in his data management journey
 

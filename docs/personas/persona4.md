@@ -12,6 +12,8 @@ Through conversations with researchers and research groups, Darryl can gain a cl
 
 ![The data management information that Institutional eResearch Manager Darryl Baker seeks in order to support researchers](../figures/Persona4.png)
 
+Mouse-over for definitions: DMP. See the [Glossary](https://genomicsaotearoa.github.io/data-management-resources/glossary/) for more details. 
+
 ## Darryl’s key questions to support research groups in their data management journeys
 
 * What are the needs of the researcher/research team, and of their data? See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch and libraries staff help you.
