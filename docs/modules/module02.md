@@ -1,5 +1,11 @@
 # Module 02 - The ethics and benefits of good data management practices
 
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/under-construction_geek_man_01.png?raw=true" alt="Under Construction sign" style="height:300px;">
+The potential for data misuse (e.g., cherry-picking, data theft, unpermitted use, sharing, or misappropriation) is ever-present throughout the data lifecycle. Data misuse is harmful to the integrity of the research, science, and innovation sector, and has important social implications relating to public trust in science. Misuse can have direct negative impacts for participants, communities, research partners, and end-users. This harm can further extend to the research group, collaborators, and their institutes in the form of serious legal implications, reputational risk, and negative impacts on career trajectories. There are clear ethical processes for other aspects of research (such as regulatory bodies for human and animal ethics) but such ethical frameworks may not yet be established for the generation and storage of biodiversity genomic data (especially eDNA, plants, invertebrates, fungi). 
 
-This page is currently under construction. Come back later.
+Data management practices provide tools that researchers can use to mitigate these risks. However we recognise that there remains a gap between knowing and doing, with different groups positioned at different points on their data management journeys. While it is easy to envision the consequences of data misuse, what are the incentives to upholding good data management practices?
+
+* Good data management minimises the risks of data misuse, loss, or theft, improves transparency, and ensures data FAIRness within established parameters specific to those data.
+* Good data management benefits the researcher through increased efficiency and greater opportunities for and outcomes of collaborations, with flow-on effects that contribute to accelerate career trajectories. 
+* Good data management makes life easy! 
+
+We encourage researchers to view data management practices as behaviours intrinsic to the research process, and to adopt a mindset of adaptability to the various hurdles that may be encountered along the way. 
