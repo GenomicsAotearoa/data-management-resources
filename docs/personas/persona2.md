@@ -14,9 +14,11 @@ Mouse-over for definitions: DMP, HPC, GPU. See the [Glossary](https://genomicsao
 
 ## Dr Sato’s key questions in his data management journey
 
-* How can I embed data management processes in my daily workflows? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/) - Incorporating data management into daily practice, [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module11/) - Top tips and tricks to make data management easy.
-* How do I ensure interoperability across large genomic and environmental data sets? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why, and how of metadata management.
-* How can I get help with getting access to analysis and storage resources? -> See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch and libraries staff help you.
+| Question | Associated module providing solutions | 
+|:--|:--|
+| How can I embed data management processes in my daily workflows? | Incorporating data management into daily practice [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/){ .md-button .md-button--primary } |
+| How do I ensure interoperability across large genomic and environmental data sets? | The what, why, and how of metadata management [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/){ .md-button .md-button--primary } |
+| How can I get help with access to analysis and storage resources? | Helping eResearch and libraries staff help you [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/){ .md-button .md-button--primary } |
 
 *[DMP]: Data Management Plan
 *[HPC]: High performance computing
