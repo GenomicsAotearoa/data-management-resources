@@ -1,9 +1,5 @@
 # Module 05 - Data Management Plans in practice
 
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/under-construction_geek_man_01.png?raw=true" alt="Under Construction sign" style="height:300px;">
-
-This page is currently under construction. Come back later.
-
 A data management plan (DMP), sometimes referred to as a data management and sharing plan (DMSP), serves to define a framework for how we as researchers use and interact with data under our care. In this Module, we’ll look to our personas for examples of why DMPs are an essential research tool and provide some suggestions to springboard researchers looking to develop their first DMP. 
 
 ## The newbie tackling a new project
