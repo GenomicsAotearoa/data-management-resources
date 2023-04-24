@@ -16,13 +16,11 @@ Mouse-over for definitions: DMP, HPC, IDSov, VM. See the [Glossary](https://geno
 
 | Question | Associated module providing solutions | 
 |:--|:--|
-| Why is data management important? | [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/){ .md-button .md-button--primary } -  The ethics and benefits of good data management practices |
-
-
-* What is metadata, and how should I manage it? -> See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata.
-* How can I structure directories for raw data and analysis? -> See [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Incorporating data management into daily practice.
-* How can I incorporate Indigenous data sovereignty perspectives in my data management practices? -> See [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations.
-* How can I incorporate data management in my daily workflows? -> See [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/) - Top tips and tricks to make data management easy, [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Incorporating data management into daily practice.
+| Why is data management important? | The ethics and benefits of good data management practices [Module 02](https://genomicsaotearoa.github.io/data-management-resources/modules/module02/){ .md-button .md-button--primary }  |
+| What is metadata, and how should I manage it? | The what, why and how of metadata [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/){ .md-button .md-button--primary } |
+| What are some key things I should know as I begin my data management journey? | Top tips and tricks to make data management easy [Module 01](https://genomicsaotearoa.github.io/data-management-resources/modules/module01/){ .md-button .md-button--primary } |
+| How can I structure directories for raw data and analysis? | Incorporating data management into daily practice [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/){ .md-button .md-button--primary } |
+| How can I facilitate Indigenous data sovereignty in my data management practices? | Incorporating Indigenous data sovereignty considerations [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } |
 
 *[CARE]: CARE Principles for Indigenous Data Governance
 *[DMP]: Data Management Plan
