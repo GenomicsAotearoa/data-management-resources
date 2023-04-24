@@ -15,7 +15,7 @@ The differences between storage types have less to do with spice level or temper
 
 For consistency within research groups, it may be helpful to decide as a group which data/file types require which storage temperatures to maximise efficiency, maintain data security, and meet the needs specified in DMPs. Regardless of how hot or cold your storage is, it’s important to make sure sufficient metadata (see [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/)) is collated alongside your data to support other users (including future you!) in navigating directories and understanding file contents.  
 
-## What is hot storage? :fontawesome-solid-sun: 
+## :fontawesome-solid-sun: What is hot storage? 
 
 In the case of hot storage, we generally mean storage for data that you're actively analysing that requires immediate read/write access. Data is generally stored locally to where it is being analysed. One example of usage of hot storage would be for data actively in use for genome alignment and variant discovery.
 
@@ -23,13 +23,13 @@ As a general rule of thumb, hot storage should be considered a temporary home fo
 
 Taking all this into consideration, hot storage is not a good place for keeping your data in the long term - there may not be enough room and it is not safe. You should keep a master copy on a cooler form of storage where safety and integrity are ensured and only copy what you need onto the hot storage for your compute. As you generate important results, these should be copied from hot storage to cooler storage at the first opportunity.
 
-## What is warm storage? <i class="fas fa-cloud-sun"></i>
+## :fontawesome-solid-cloud-sun: What is warm storage? 
 
 Next up is warm storage, which is best suited to store data for intermittent access. It is generally less expensive than drives used for hot storage. While access to data is slower, it is relatively immediate and is a good staging place for data that you use regularly. Analysis that does not require HPC can take place here, and this storage can usually be backed up. Data that you might consider putting on warm storage includes files that take a long time to generate and are likely to be reused, such as BAM alignment files used for variant discovery. 
 
 A typical drive in a personal machine issued by an institute is warm. But note - although some institutes will issue faster drives, you’ll notice these have low capacity and you will likely need to rely on a form of network or cloud storage to supplement it. Network storage at your institute is more warm (to you) than hot.  
 
-## What is cold storage? <i class="fas fa-snowflake"></i>
+## :fontawesome-solid-snowflake: What is cold storage? 
 
 Finally, cold storage is largely for data that is rarely accessed or archived. For cold storage, the emphasis is placed on the most bang for your buck for capacity. With that being said cold storage comes in many varieties depending on how much money you want to spend, the capacity you need and the retrieval time you are willing to accept.  
 
@@ -37,7 +37,7 @@ While data in hot and warm storage is accessible immediately (in human terms), i
 
 In cold storage there should also be a great emphasis on data safety and integrity. The drive will usually be backed up, and there may be data integrity checks. This means that cold storage is an excellent place for storing master copies of raw data as a safety measure.  
 
-## The strange case of cloud storage <i class="fa-solid fa-cloud"></i>
+## :fontawesome-solid-cloud: The strange case of cloud storage 
 
 Cloud storage systems (e.g., Dropbox, OneDrive, Google Drive, Amazon Web Services Cloud) are effectively cold if you want to use them on your machine. The primary interface for cloud storage is file transfer via a web browser meaning it is not immediately available. Some services like Google Drive or Microsoft OneDrive use their associated cloud storage directly and if you use the associated web applications, it gives the appearance of warm storage. If you are only using this on a single machine, you effectively have a folder backed up in the cloud. But if you want to share a file or use the cloud as a common drive between machines, you may notice that data may not be immediately available. Sometimes how hot or cold a storage is depends on how remote it is to you or the application that uses it.
 
