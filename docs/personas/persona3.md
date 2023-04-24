@@ -16,10 +16,13 @@ Mouse-over for definitions: DMP. See the [Glossary](https://genomicsaotearoa.git
 
 ## Professor Nepia’s key questions in her data management journey
 
-* Where can I go to get support in understanding data storage options? -> See [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Hot, warm, and cold data storage, [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch and libraries staff help you.
-* Does my research group require bespoke data management tools? -> See [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Data Management Plans in practice.
-* How can I implement and maintain a consistent, cohesive data management strategy for my research team? -> See [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Data Management Plans in practice, [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Strategies for cohesive data management within research teams.
-* How can I support emerging researchers in my team to get the training they need? -> See [Module 10](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/) - Strategies for cohesive data management within research teams, [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) Helping eResearch and libraries staff help you.
-* How can I support my research group in balancing Western science data management standards/principles with the data sovereignty needs of our Indigenous partners? -> see [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations.
+| Question | Associated module providing solutions | 
+|:--|:--|
+| Where can I go to get support in understanding data storage options? | Hot, warm, and cold data storage [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/){ .md-button .md-button--primary } <br> Helping eResearch and libraries staff help you [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/){ .md-button .md-button--primary } |
+| Does my research group require bespoke data management tools? | Data Management Plans in practice [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/){ .md-button .md-button--primary } |
+| How can I implement and maintain a consistent, cohesive data management strategy for my research team? | [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/){ .md-button .md-button--primary } <br> Strategies for cohesive data management within research teams [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/){ .md-button .md-button--primary } |
+| How can I support my research team in upholding both the FAIR and CARE Guiding Principles? | Incorporating Indigenous data sovereignty considerations [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } |
 
+*[CARE]: CARE Principles for Indigenous Data Governance
 *[DMP]: Data Management Plan
+*[FAIR]: FAIR Guiding Principles

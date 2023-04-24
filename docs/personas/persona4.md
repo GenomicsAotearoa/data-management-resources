@@ -16,10 +16,12 @@ Mouse-over for definitions: DMP. See the [Glossary](https://genomicsaotearoa.git
 
 ## Darryl’s key questions to support research groups in their data management journeys
 
-* What are the needs of the researcher/research team, and of their data? See [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch and libraries staff help you.
-* Is there a DMP for this research, and what does it contain? See [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/) - Data Management Plans in practice.
-* How is the data intended to be stored, and for how long? See [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/) - Hot, warm, and cold data storage.
-* Is the data properly labelled, and is there associated metadata? See [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) - The what, why and how of metadata.
-* Are there any additional considerations around the data? See [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/) - Incorporating Indigenous data sovereignty considerations, [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/) - Helping eResearch and libraries staff help you.
+| Question | Associated module providing solutions | 
+|:--|:--|
+| What are the needs of the researcher/research team, and of their data? | Helping eResearch and libraries staff help you [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/){ .md-button .md-button--primary } |
+| Is there a DMP for this research, and what does it contain? | Data Management Plans in practice [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/){ .md-button .md-button--primary } |
+| How is the data intended to be stored, and for how long? | Hot, warm, and cold data storage [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/){ .md-button .md-button--primary } |
+| Is the data properly labelled, and is there associated metadata? | The what, why and how of metadata [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/){ .md-button .md-button--primary } |
+| Are there any additional considerations around the data? | Incorporating Indigenous data sovereignty considerations [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } |
 
 *[DMP]: Data Management Plan
