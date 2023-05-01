@@ -22,6 +22,11 @@ Mouse-over for definitions: DMP, HPC, IDSov, VM. See the [Glossary](https://geno
 | How can I structure directories for raw data and analysis? | Incorporating data management into daily practice <br> [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/){ .md-button .md-button--primary } |
 | How can I facilitate Indigenous data sovereignty in my data management practices? | Incorporating Indigenous data sovereignty considerations <br> [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } |
 
+
+**<p style="text-align: right;">
+[Persona 2]([https://genomicsaotearoa.github.io/data-management-resources/personas/](https://genomicsaotearoa.github.io/data-management-resources/personas/persona2/)){ .md-button .md-button--primary } 
+</p>**
+
 *[CARE]: CARE Principles for Indigenous Data Governance
 *[DMP]: Data Management Plan
 *[FAIR]: FAIR Guiding Principles
