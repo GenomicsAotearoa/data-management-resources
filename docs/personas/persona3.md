@@ -24,7 +24,7 @@ Mouse-over for definitions: DMP. See the [Glossary](https://genomicsaotearoa.git
 | How can I support my research team in upholding both the FAIR and CARE Guiding Principles? | Incorporating Indigenous data sovereignty considerations <br> [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } |
 
 **<p style="text-align: right;">
-[Persona 4](https://genomicsaotearoa.github.io/data-management-resources/personas/persona4/)){ .md-button .md-button--primary } 
+[Persona 4](https://genomicsaotearoa.github.io/data-management-resources/personas/persona4/){ .md-button .md-button--primary } 
 </p>**
 
 *[CARE]: CARE Principles for Indigenous Data Governance
