@@ -7,6 +7,7 @@ We're not intending to be dramatic by pointing out these consequences and we're 
 As a result, researchers and eResearch staff must equip themselves with diverse strategies to mitigate risks in a variety of situations. However we recognise that there remains a gap between knowing and doing, with different groups positioned at different points on their data management journeys. 
 
 While it is easy to envision the consequences of data misuse, what are the incentives to upholding good data management practices?
+
 * Good data management minimises the risks of data misuse, loss, or theft, improves transparency, and ensures data FAIRness within established parameters specific to those data.
 * Good data management benefits the researcher through increased efficiency and greater opportunities for and outcomes of collaborations, with flow-on effects that contribute to accelerate career trajectories.  
 * Good data management makes life easy!  
