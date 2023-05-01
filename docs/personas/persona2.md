@@ -21,7 +21,7 @@ Mouse-over for definitions: DMP, HPC, GPU. See the [Glossary](https://genomicsao
 | How can I get help with access to analysis and storage resources? | Helping eResearch and libraries staff help you <br> [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/){ .md-button .md-button--primary } |
 
 **<p style="text-align: right;">
-[Persona 3](https://genomicsaotearoa.github.io/data-management-resources/personas/persona3/)){ .md-button .md-button--primary } 
+[Persona 3](https://genomicsaotearoa.github.io/data-management-resources/personas/persona3/){ .md-button .md-button--primary } 
 </p>**
 
 *[DMP]: Data Management Plan
