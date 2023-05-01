@@ -24,7 +24,7 @@ Mouse-over for definitions: DMP, HPC, IDSov, VM. See the [Glossary](https://geno
 
 
 **<p style="text-align: right;">
-[Persona 2]([https://genomicsaotearoa.github.io/data-management-resources/personas/](https://genomicsaotearoa.github.io/data-management-resources/personas/persona2/)){ .md-button .md-button--primary } 
+[Persona 2](https://genomicsaotearoa.github.io/data-management-resources/personas/persona2/)){ .md-button .md-button--primary } 
 </p>**
 
 *[CARE]: CARE Principles for Indigenous Data Governance
