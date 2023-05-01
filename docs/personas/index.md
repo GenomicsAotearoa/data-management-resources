@@ -4,7 +4,7 @@ Here we describe four user-experience personas across a diversity of career stag
 
 [Persona 1](https://genomicsaotearoa.github.io/data-management-resources/personas/persona1/) - A student new to biodiversity genomics 
 
-[Persona 2](https://genomicsaotearoa.github.io/data-management-resources/personas/persona2/) - An early career researcher working collaboratively outside of academia 
+[Persona 2](https://genomicsaotearoa.github.io/data-management-resources/personas/persona2/) - An early career researcher working collaboratively
 
 [Persona 3](https://genomicsaotearoa.github.io/data-management-resources/personas/persona3/) - A biodiversity genomics research team leader
 
