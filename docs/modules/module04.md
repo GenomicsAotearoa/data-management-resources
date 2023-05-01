@@ -1,8 +1,8 @@
 # Module 04 - Helping eResearch and libraries staff help you
 
-When first trying to navigate your institution's framework for data storage and management can be a lot like travelling through a new city when your phone battery has died. You have a vague sense of the direction, but no idea of what you're looking for or how to get there. But never fear, eResearch and libraries staff are here to help!  
+When first trying to navigate your institute's framework for data storage and management can be a lot like travelling through a new city when your phone battery has died. You have a vague sense of the direction, but no idea of what you're looking for or how to get there. But never fear, eResearch and libraries staff are here to help!  
 
-There is one caveat to this: to best support research groups with their data management needs, eResearch and libraries staff require context and clarification to enable them to design and deliver appropriate solutions. The more information they have, the better the solutions. It may be helpful to consider the following list of needs and questions from an eResearch support person, both during conversations with eResearch and libraries staff, but also when developing DMPs. Not all of these questions can be answered at the outset of a project, but it can be helpful to keep them in mind as you progress along the data lifecycle.
+There is one caveat to this: to best support research groups with their data management needs, eResearch and libraries staff require context and clarification to enable them to design and deliver appropriate solutions. The more information they have, the better the solutions they can provide. It may be helpful to consider the following list of needs and questions from an eResearch support person, both during conversations with eResearch and libraries staff, but also when developing DMPs. Not all of these questions can be answered at the outset of a project, but it can be helpful to keep them in mind as you progress along the data life cycle.
 
 ![The who, what, when, where, why, and how of data management](../figures/5Ws-eResearch-support-staff-draft-v2.png)
 
@@ -29,7 +29,7 @@ While supporting researchers, eResearch teams have their own wants and needs tha
   <li>Who can access the data within these protections? Are there any external collaborators that will require access to the data?</li>
   <li>How will the data be consumed? How do the researchers want to access the data within the protections that need to be met?</li>
   <li>What is the expected data volume? How will it grow over time?</li>
-  <li>What should be done with the data once it has reached the end of the immediate research lifecycle?</li>
+  <li>What should be done with the data once it has reached the end of the immediate research life cycle?</li>
   <li>Are there plans for the preservation and archiving of the datasets, and if so, which files, and for how long?</li>
   <li>Can or should data be deleted in the future?</li>
   <li>What outputs will your research will generate, and will this data have value to other researchers?</li>
