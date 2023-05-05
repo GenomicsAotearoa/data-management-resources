@@ -5,9 +5,9 @@
 This page is currently under construction. Come back later.
 
 
-Knowing where to start can be one of the hardest parts of the data management journey, but getting good practices in place early will save you from headaches down the track. There is a wealth of existing information on these and other important concepts for the research lifecycle, with this Module acting as a 'quick start' guide, giving a brief overview of important considerations such as directory structure and file naming conventions, the use of version control, and workflow management. 
+Knowing where to start can be one of the hardest parts of the data management journey, but getting good practices in place early will save you from headaches down the track. There is a wealth of existing information on these and other important concepts for the research lifecycle, with this Module acting as a 'quick start' guide, giving a brief overview of important considerations such as directory structure and file naming conventions, structuring data sets in a tidy manner, the use of version control, and workflow management. 
 
-Beyond this Module, we recommend you investigate your institute's resources, as they may provide specific guidelines that meet institutional criteria. [The Carpentries](https://carpentries.org/) provide workshops and extensive documentation across a wide range of subject areas that can help you get started. We also recommend you familiarise yourself with the fundamental principles of tidy data as soon as possible in your research journey. 
+Beyond this Module, we recommend you investigate your institute's resources, as they may provide specific guidelines that meet institutional criteria. [The Carpentries](https://carpentries.org/) provide workshops and extensive documentation across a wide range of subject areas that can help you get started. We also recommend you familiarise yourself with the fundamental principles of [tidy data](##tidy-data) as soon as possible in your research journey. 
 
 Whatever your approach, we recommend consistency above all else. Maintaining comprehensive and consistent notes across all aspects of the research, from proposed research questions, existing scholarship, involvement of collaborators, data collection and generation procedures, and analysis (regardless of whether it was successful) will not only ensure reproducibility, but make your research papers faster and easier to write!  
 
@@ -76,7 +76,7 @@ From here, it will be relatively straightforward to build up an analysis pipelin
 
 What it is. Existing tools - e.g., GitHub (with a short beginners guide).
 
-## Tidy data structures
+## Tidy data
 
 We recommend researchers get familiar with tidy data concepts prior to data collection where possible - though it's never too late! The three primary principles for structuring data sets tidily are that variables are contained in columns, observations in rows, and values in cells. This allows data to be subset and analysed in a straightforward and consistent manner, saving you (or your collaborators) lots of time down the track.
 
