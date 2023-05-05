@@ -78,7 +78,13 @@ What it is. Existing tools - e.g., GitHub (with a short beginners guide).
 
 ## Tidy data
 
-We recommend researchers get familiar with tidy data concepts prior to data collection where possible - though it's never too late! The three primary principles for structuring data sets tidily are that variables are contained in columns, observations in rows, and values in cells. This allows data to be subset and analysed in a straightforward and consistent manner, saving you (or your collaborators) lots of time down the track.
+We recommend researchers get familiar with tidy data concepts prior to data collection where possible - though it's never too late! The three primary principles for structuring data sets tidily are:
+
+* variables are contained in columns 
+* observations are contained in rows 
+* values are contained in cells 
+
+Maintaining this structure allows data to be extracted, manipulated and analysed in a straightforward and consistent manner, saving you (or your collaborators) lots of time down the track!
 
 There are plenty of existing resources to help you wrangle your data into tidy formats, and especially for analysis in the R statistical environment. As a starting point, we recommend taking a read of [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf), or exploring the examples and use cases in the [R for Data Science introduction to Tidy Data](https://r4ds.had.co.nz/tidy-data.html). With this knowledge in hand, you'll be ready to create tidy spreadsheets, untangle messy ones, and use tools like the [Tidyverse R package](https://doi.org/10.21105/joss.01686) to ensure consistency across data sets.
 
