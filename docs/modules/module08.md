@@ -4,10 +4,11 @@
 
 This page is currently under construction. Come back later.
 
+---
 
 Knowing where to start can be one of the hardest parts of the data management journey, but getting good practices in place early will save you from headaches down the track. There is a wealth of existing information on these and other important concepts for the research lifecycle, with this Module acting as a 'quick start' guide, giving a brief overview of important considerations such as directory structure and file naming conventions, structuring data sets in a tidy manner, the use of version control, and workflow management. 
 
-Beyond this Module, we recommend you investigate your institute's resources, as they may provide specific guidelines that meet institutional criteria. [The Carpentries](https://carpentries.org/) provide workshops and extensive documentation across a wide range of subject areas that can help you get started. We also recommend you familiarise yourself with the fundamental principles of [tidy data](#tidy-data) as soon as possible in your research journey. 
+Beyond this Module, we recommend you investigate your institute's resources, as they may provide specific guidelines that meet institutional criteria. [The Carpentries](https://carpentries.org/) provide workshops and extensive documentation across a wide range of subject areas that can help you get started. We also recommend you familiarise yourself with the fundamental principles of [tidy data](#tidy-data) early in your research journey, setting you up for long-term success. 
 
 Whatever your approach, we recommend consistency above all else. Maintaining comprehensive and consistent notes across all aspects of the research, from proposed research questions, existing scholarship, involvement of collaborators, data collection and generation procedures, and analysis (regardless of whether it was successful) will not only ensure reproducibility, but make your research papers faster and easier to write!  
 
