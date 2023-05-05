@@ -1,5 +1,5 @@
 # Genomic data management resources
 
-This site contains resources that stand alongside the manuscript *[Journeying towards best practice data management in biodiversity genomics](https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/teaching-resources/2023-04-28-Forsdick-et-al-Biodiversity-genomic-data-management.pdf)* (latest draft version).
+This site contains resources that stand alongside the manuscript *[Journeying towards best practice data management in biodiversity genomics](https://doi.org/10.22541/au.168328087.77582585/v1)*.
 
-Current draft is being populated by Jana Wold and Nat Forsdick, with support from manuscript co-authors.
+Current draft text in this Hub is being populated by Jana Wold and Nat Forsdick, with support from manuscript co-authors.
