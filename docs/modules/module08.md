@@ -71,3 +71,12 @@ Our raw data, in the form of a compressed FASTQ file, sits in the `raw-data/` di
 The `01-fastqc.sh` script that will be used to run FastQC to check sequencing quality should direct outputs to the `./first-sequencing-project/outputs/01-fastqc/` directory. Once we run this analysis, we will put the output FastQC results files there.
 
 From here, it will be relatively straightforward to build up an analysis pipeline from the `scripts/` directory, creating additional numbered subdirectories in `outputs/` for each associated set of output files produced. 
+
+## Version control
+
+What it is. Existing tools - e.g., GitHub (with a short beginners guide).
+
+## Tidy data structures
+
+We recommend researchers get familiar with tidy data concepts prior to data collection where possible - though it's never too late! There are plenty of existing resources to help you wrangle your data into tidy formats, and especially for analysis in the R statistical environment. As a starting point, we recommend taking a read of [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf), and exploring the examples and use cases in the [R for Data Science introduction to Tidy Data](https://r4ds.had.co.nz/tidy-data.html). With this knowledge in hand, you'll be ready to create tidy spreadsheets, and use tools like the [Tidyverse R package](https://doi.org/10.21105/joss.01686) to wrangle data into manageable structures.
+
