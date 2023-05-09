@@ -41,7 +41,7 @@ Foster a positive data management culture in your group, including:
 
 <p>
 
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Tehara-profile.png?raw=true" style="float:left;width:120px;" alt="Profile image of research team leader Professor Nepia">
+<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Tehara-profile.png?raw=true" style="float:right;width:120px;" alt="Profile image of research team leader Professor Nepia">
   
   <li> Develop clear documentation around on/offboarding procedures and daily management practices</li>
   <li> Make data management a standing item on the agenda for research team meetings</li>
