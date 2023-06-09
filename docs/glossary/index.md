@@ -22,6 +22,6 @@
 | NCBI | National Centre for Biotechnology Information. Part of the United States National Library of Medicine, and host of various databases such as GenBank, PubMed, and the Sequence Read Archive. |
 | Open data | Data anyone can use and share, typically publicly accessible and with an open licence. |
 | research life cycle | The steps in the process of scientific research from inception (research planning, design, and funding) to completion (dissemination of results and real-world impact), which often leads back to development of new related projects. The research and data life cycles are distinct but interrelated. |
-| SRA | NCBI's [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra), the largest global repository of genomic data |
+| SRA | NCBI's [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra), the largest global repository of genomic data. |
 | SSD | Solid state drive. |
 | VM | Virtual machine. A software-based computer system emulating that of a different physical machine. VMs are often used to run a different operating system than that of the primary system of the physical computer. |
