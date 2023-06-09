@@ -9,5 +9,5 @@ Here you can download slides that contain image files and content found in this 
 Preview the data management overview: 
 <iframe src='https://view.officeapps.live.com/op/view.aspx?src=[https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/BGDMH-data-mgmt-teaching-resource.pptx?raw=true]' width='100%' height='600px' frameborder='0'> 
   
-<a src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/BGDMH-data-mgmt-teaching-resource.pptx?raw=true" download>Biodiversity Genomics Data Management Powerpoint</a>
+<a href="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/BGDMH-data-mgmt-teaching-resource.pptx?raw=true" download="download">Biodiversity Genomics Data Management Powerpoint</a>
 
