@@ -1,19 +1,26 @@
 # Module 08 - Incorporating data management into daily practice
 
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/under-construction_geek_man_01.png?raw=true" alt="Under Construction sign" style="height:300px;">
+Knowing where to start can be one of the hardest parts of the data management journey, but getting good practices in place early will save you from headaches down the track. There is a wealth of existing information on these and other important concepts for the research lifecycle, with this Module acting as a 'quick start' guide, giving a brief overview of important considerations such as directory structure and file naming conventions, structuring data sets in a tidy manner, the use of version control, and workflow management. 
 
-This page is currently under construction. Come back later.
+Beyond this Module, we recommend you investigate your institute's resources, as they may provide specific guidelines that meet institutional criteria. [The Carpentries](https://carpentries.org/) provide workshops and extensive documentation across a wide range of subject areas that can help you get started. We also recommend you familiarise yourself with the fundamental principles of [tidy data](#tidy-data) early in your research journey, setting you up for long-term success. 
 
+Whatever your approach, we recommend consistency above all else, in both the structuring of your data sets and work spaces, but also in your records. Maintaining comprehensive and consistent notes across all aspects of the research, from proposed research questions, existing scholarship, involvement of collaborators, data collection and generation procedures, and analysis (regardless of whether it was successful) will not only ensure reproducibility, but make your research papers faster and easier to write!  
 
-Knowing where to start can be one of the hardest parts of the data management journey, but getting good practices in place early will save you from headaches down the track. There is a wealth of existing information on these and other important concepts for the research lifecycle, with this Module acting as a 'quick start' guide, giving a brief overview of important considerations such as directory structure and file naming conventions, the use of version control, and workflow management. 
+## Tidy data
 
-Beyond this Module, we recommend you investigate your institute's resources, as they may provide specific guidelines that meet institutional criteria. [The Carpentries](https://carpentries.org/) provide workshops and extensive documentation across a wide range of subject areas that can help you get started. We also recommend you familiarise yourself with the fundamental principles of tidy data as soon as possible in your research journey. 
+We recommend researchers get familiar with tidy data concepts prior to data collection where possible - though it's never too late! The three primary principles for structuring data sets tidily are:
 
-Whatever your approach, we recommend consistency above all else. Maintaining comprehensive and consistent notes across all aspects of the research, from proposed research questions, existing scholarship, involvement of collaborators, data collection and generation procedures, and analysis (regardless of whether it was successful) will not only ensure reproducibility, but make your research papers faster and easier to write!  
+* variables are contained in columns 
+* observations are contained in rows 
+* values are contained in cells 
 
-## Data management fundamentals
+Maintaining this structure allows data to be extracted, manipulated and analysed in a straightforward and consistent manner, saving you (or your collaborators) lots of time down the track!
+
+There are plenty of existing resources to help you wrangle your data into tidy formats, and especially for analysis in the R statistical environment. As a starting point, we recommend taking a read of [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf), or exploring the examples and use cases in the [R for Data Science introduction to Tidy Data](https://r4ds.had.co.nz/tidy-data.html). With this knowledge in hand, you'll be ready to create tidy spreadsheets, untangle messy ones, and use tools like the [Tidyverse R package](https://doi.org/10.21105/joss.01686) to ensure consistency across data sets.
+
+## Genomic data management fundamentals
  
-As an emerging biodiversity genomic researcher, the initial question you will have when you receive your first batch of genomic data is likely to be: *What do I do with this?* Your first step should always be to ensure that you keep an untouched backup copy of the raw data in [cold storage](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/). All relevant [metadata](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) should be stored alongside the raw data (for example, in README files.
+As an emerging biodiversity genomic researcher, the initial question you will have when you receive your first batch of genomic data is likely to be: *What do I do with this?* Your first step should always be to ensure that you keep an untouched backup copy of the raw data in [cold storage](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/). [Metadata](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/) should be stored alongside the raw data (for example, in README files).
 
 
 !!! info "Validating data transfer"
@@ -49,7 +56,7 @@ As an emerging biodiversity genomic researcher, the initial question you will ha
         Each validated checksum will display `OK`, while a mismatched checksum will display `FAILED`. If you get a `FAILED` file, you will need to redo the file transfer and re-validate.
 
 
-### Directory structure
+### Structuring directories
 
 With that done, you next want to move the data to your analysis space, and set up your directory (folder) structure. Having clearly structured directories keeps things tidy, and ensures that you can always tell where you are up to in your analysis pipeline. It is very likely that the first thing you want to check will be the quality of your raw data, so here we present an example directory structure suitable for that.
 
@@ -66,8 +73,14 @@ With that done, you next want to move the data to your analysis space, and set u
 
 Here you can see the top level directory `first-sequencing-project/` will contain everything to do with this project all in one place. Within this project directory there are three subdirectories: `raw-data/`, `scripts/`, and `outputs/`. By using simple, clear naming, the directory structure should be self-explanatory. 
 
-Our raw data, in the form of a compressed FASTQ file, sits in the `raw-data/` directory. Scripts for processing the data, like the `01-fastqc.sh` bash script are all kept in one place. Using a numbering system for scripts and their associated output directories (like the `01-fastqc/` subdirectory within the `outputs/` directory) is helpful to keep track of the steps in the analysis pipeline.
+Our raw data, in the form of a compressed FASTQ file, sits in the `raw-data/` directory. Scripts for processing the data, like the `01-fastqc.sh` bash script are all kept in one place. Using a numbering system for scripts and their associated output directories (like the `01-fastqc/` subdirectory within the `outputs/` directory) is helpful to keep track of the steps in the analysis pipeline. You can learn more about file naming conventions through MANTRA's '[Organising Data](https://mantra.ed.ac.uk/organisingdata/)' research data management training unit.
 
 The `01-fastqc.sh` script that will be used to run FastQC to check sequencing quality should direct outputs to the `./first-sequencing-project/outputs/01-fastqc/` directory. Once we run this analysis, we will put the output FastQC results files there.
 
-From here, it will be relatively straightforward to build up an analysis pipeline from the `scripts/` directory, creating additional numbered subdirectories in `outputs/` for each associated set of output files produced. 
+From here, it will be relatively straightforward to build up an analysis pipeline from the `scripts/` directory, creating additional numbered subdirectories in `outputs/` for each associated set of output files produced. What other directories do you think you may need to create during later steps in the research life cycle?
+
+## Version control
+
+Version control is managing and tracking changes to documents. In the biodiversity genomics space, this will most commonly be used for keeping track of changes in analysis code and software development. It can also be used in research more generally for keeping track of changes to other documents such as manuscript drafts. For the latter, Microsoft Word and Google Docs include the facility to manage document versions. For coding purposes, the version control system [Git](https://git-scm.com/) will be an essential tool. While Git handles the version control, its associated cloud-based repository [GitHub](https://github.com) makes sharing code with collabotors and colleagues very straightforward. These tools are widely used and well-documented, with plenty of support available to help new users upskill, for example through the GitHub '[Getting Started](https://docs.github.com/en/get-started/using-git/about-git)' pages. As these tools are widely used, there may also be local opportunities for institutional training and community support. 
+
+*[research life cycle]: The steps in the process of scientific research from inception (research planning, design, and funding) to completion (dissemination of results and real-world impact), which often leads back to development of new related projects

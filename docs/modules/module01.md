@@ -34,3 +34,21 @@ In this module we outline some tips and tricks that we have found hand for our o
   <li> Give it a go. Start writing a data management plan before you start your research, and ask for help along the way. Practice makes perfect!</li>
 
 </p>
+
+## Professor Nepia's advice for research team leaders
+
+Foster a positive data management culture in your group, including:
+
+<p>
+
+<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Tehara-profile.png?raw=true" style="float:right;width:120px;" alt="Profile image of research team leader Professor Nepia">
+  
+  <li> Develop clear documentation around on/offboarding procedures and daily management practices</li>
+  <li> Make data management a standing item on the agenda for research team meetings</li>
+  <li> Support your data management champion(s) in:</li>
+    <ul><li> Overseeing the onboarding and identifying training needs for new members to ensure the implementation of consistent data management practices</li>
+        <li> Operating as a conduit between the research team and eResearch and libraries staff</li> 
+    </ul><li> Embed succession planning across the research team, especially for the data management champion</li> 
+  
+</p>
+  
