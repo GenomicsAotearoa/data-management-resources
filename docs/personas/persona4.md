@@ -24,6 +24,6 @@ Mouse-over for definitions: DMP. See the [Glossary](https://genomicsaotearoa.git
 | Is there a DMP for this research, and what does it contain? | Data Management Plans in practice <br> [Module 05](https://genomicsaotearoa.github.io/data-management-resources/modules/module05/){ .md-button .md-button--primary } |
 | How is the data intended to be stored, and for how long? | Hot, warm, and cold data storage <br> [Module 03](https://genomicsaotearoa.github.io/data-management-resources/modules/module03/){ .md-button .md-button--primary } |
 | Is the data properly labelled, and is there associated metadata? | The what, why and how of metadata <br> [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/){ .md-button .md-button--primary } |
-| Are there any additional considerations around the data? | Incorporating Indigenous data sovereignty considerations <br> [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } |
+| Are there any additional considerations around the data? | Indigenous data sovereignty <br> [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } |
 
 *[DMP]: Data Management Plan
