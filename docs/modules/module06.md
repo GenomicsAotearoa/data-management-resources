@@ -24,5 +24,5 @@ For background on the Aotearoa New Zealand context that we operate within, we su
 
 While these resources are framed around the Aotearoa New Zealand context, they draw from examples across Indigenous perspectives globally, such as *[Access and Management: Indigenous Perspectives on Genomic Data Sharing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6919970/)*, *[Data governance for Native Nation Re-building](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d6f9489dc105b0001ac1669/1567593609955/Policy_Brief_Data_Governance_for_Native_Nation_Rebuilding_Version_2%2Bcopy.pdf)*, *[Rights, interests and expectations: Indigenous perspectives on unrestricted access to genomic data](https://doi.org/10.1038/s41576-020-0228-x)*, and *[Indigenous peoples and local communities as partners in the sequencing of global eukaryotic biodiversity](https://doi.org/10.1038/s44185-023-00013-7)*, among many others.
 
-*[SRA]: NCBI's [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra), the largest global repository of genomic data
+*[SRA]: NCBI's Sequence Read Archive, the largest global repository of genomic data
 *[NCBI]: National Centre for Biotechnology Information. Part of the United States National Library of Medicine, and host of various genomic databases such as GenBank and the Sequence Read Archive
