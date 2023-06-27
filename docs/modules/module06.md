@@ -1,6 +1,6 @@
 # Module 06 - Indigenous data sovereignty
 
-There is no shortage of think-pieces that contextualise the [CARE Guiding Principles](https://www.gida-global.org/care) for Indigenous data sovereignty, and a growing number of empirical examples that facilitate [Indigenous People’s Rights in Data](https://www.gida-global.org/new-page-1) and Indigenous data sovereignty (e.g., [Indigenous Peoples’ Rights in Data: a contribution toward Indigenous Research Sovereignty]( https://doi.org/10.3389/frma.2023.1173805)). There are many ways these goals can be achieved. Here, we focus on helping researchers translate these principles into meaningful actions to empower Indigenous research partners.  
+There is no shortage of think-pieces that contextualise the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE Guiding Principles](https://www.gida-global.org/care), and a growing number of empirical examples that facilitate [Indigenous People’s Rights in Data](https://www.gida-global.org/new-page-1) and Indigenous data sovereignty (e.g., [Indigenous Peoples’ Rights in Data: a contribution toward Indigenous Research Sovereignty]( https://doi.org/10.3389/frma.2023.1173805)). There are many ways these goals can be achieved. Here, we focus on helping researchers translate these principles into meaningful actions to empower Indigenous research partners.  
 
 ## Developing relationships with Indigenous research partners
 
