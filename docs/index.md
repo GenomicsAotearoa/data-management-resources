@@ -16,6 +16,8 @@ Based on the questions that arise from these personas, we direct you to [modules
 
 Through this hub, we aim to empower the biodiversity genomics community to minimise risks and maximise research impact now and into the future. We encourage researchers to view data management as a behaviour intrinsic to the research process, and to adopt a mindset of adaptability to the various hurdles you may encounter along the way.
 
+We welcome feedback, along with the contribution of resource suggestions and additional module topics for inclusion via the [GitHub Issues](https://github.com/GenomicsAotearoa/data-management-resources/issues) page associated with the Hub.
+
 <a id="citation-licensing"></a>
 
 !!! note "Citation & Licensing"
