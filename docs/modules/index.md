@@ -1,8 +1,8 @@
 # Module overview
 
-Here you can find a series of modules filled with tips and tricks to support you on your data management journey. Use what works, adapt as needed, and leave the rest.  
+Here you can find a series of modules filled with tips and tricks to support you on your data management journey. Use what works and adapt as needed.  
 
-Below we present a simplified overview of the data lifecycle within the broader research life cycle. Think of this as a roadmap to help navigate your own research journey. Some modules may be more relevant at specific times in the life cycle than others, but you will likely find that it is essential to consider data management at every step of the research journey.   
+Below we present a simplified overview of the data life cycle within the broader research life cycle. Think of this as a roadmap to help navigate your own research journey. Some modules may be more relevant at specific times in the life cycle than others, but you will likely find it essential to consider data management at every step of the research journey.   
 
 <figure>
   <center><img src="../figures/research-lifecycle-v3.png" alt="The Data Lifecycle" style="width:60%" class="center"></center>
