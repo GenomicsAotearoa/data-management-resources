@@ -2,7 +2,7 @@
 
 Welcome to the Biodiversity Genomic Data Management Hub! We recognise that data management for biodiversity genomic research projects can be a challenge, particularly for researchers entering this space, and you are likely to have many questions as you proceed on your journey. 
 
-The primary goal of this Hub is to support biodiversity genomics researchers in developing good data management practices that embody the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) Guiding Principles, as described in <a href="#citation-licensing">Citation & Licensing.</a>
+The primary goal of this Hub is to support biodiversity genomics researchers in developing good data management practices that embody the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) Guiding Principles.
 
 !!! info "Good practice versus best practice" 
 
