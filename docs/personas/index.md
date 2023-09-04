@@ -1,6 +1,6 @@
 # Personas overview
 
-Here we describe four user-experience personas across a diversity of career stages and roles within the research ecosystem. We use these to highlight some of the key questions and concerns associated with genomic data management, based on our personal data management journeys. We hope that you are able to relate to some of the challenges experienced by these personas in their data management journeys. To gain a broad understanding across various perspectives, we recommend investigating all four personas.
+Here we describe four fictional user-experience personas and their associated data management needs. These personas cover a diversity of career stages and roles within the research ecosystem, and are loosely based on our personal data management journeys. We use these to highlight some of the key questions and challenges associated with biodiversity genomic data management. We hope that you will find aspects of these personas relatable. To gain a broad understanding of the various perspectives, we recommend taking a look at all four personas.
 
 [Persona 1](https://genomicsaotearoa.github.io/data-management-resources/personas/persona1/) - A student new to biodiversity genomics 
 
