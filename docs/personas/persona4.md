@@ -27,3 +27,4 @@ Mouse-over for definitions: DMP. See the [Glossary](https://genomicsaotearoa.git
 | Are there any additional considerations around the data? | Indigenous data sovereignty <br> [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } |
 
 *[DMP]: Data Management Plan
+*[eResearch]: The use of digital tools and techniques to advance research
