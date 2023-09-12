@@ -1,6 +1,6 @@
 # Module 05 - Data Management Plans in practice
 
-A data management plan (DMP), sometimes referred to as a data management and sharing plan, defines a framework for how researchers use and interact with data under our care. In this Module, we’ll look to our personas for examples of why DMPs are an essential research tool and provide some suggestions to springboard researchers looking to develop their first DMP. 
+A data management plan (DMP), sometimes referred to as a data management and sharing plan, defines a framework for how researchers use and interact with data under their care. In this Module, we’ll look to our Personas for examples of why DMPs are an essential research tool and provide some suggestions to springboard researchers looking to develop their first DMP. 
 
 ## The newbie tackling a new project
 
