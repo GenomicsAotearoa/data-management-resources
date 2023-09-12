@@ -16,6 +16,7 @@
 | HPC | High performance computing. |
 | Indigenous data | The tangible and/or intangible cultural materials, belongings, knowledge, digital data, and information about Indigenous Peoples or that to which they relate. |
 | Indigenous data sovereignty | The expression of a legitimate right of Indigenous Peoples to control the access, the collection, ownership, application and governance of their own data, knowledge, and/or information that derives from unique cultural histories, expressions, practices, and contexts (https://localcontexts.org/indigenous-data-sovereignty/). |
+| kaitiakitanga | guardianship, protection (te reo Māori). |
 | metadata | Data that provides information about other data. For biodiversity genomic data, metadata can provide information regarding context (e.g., taxonomic, spatial, temporal, and associated permissions) as well as used technologies/methodologies. |
 | MIGS | Minimum Information about a Genome Sequence. |
 | MIxS | Minimum Information about any (X) Sequence. |
