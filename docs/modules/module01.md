@@ -1,6 +1,6 @@
 # Module 01 - Top tips and tricks to make data management easy
 
-In this module we outline some tips and tricks that we have found hand for our own research. But it is important to note that every journey is different, with some potential detours! As such, your mileage with these tips may vary.  
+In this module we outline some tips and tricks that we have found handy for our own research. But it is important to note that every journey is different, with some potential detours! As such, your mileage with these tips may vary.  
 
 ## Taylor and Atsushi’s advice for emerging researchers
 
@@ -16,9 +16,9 @@ In this module we outline some tips and tricks that we have found hand for our o
 <p>
   <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Atsushi-profile.png?raw=true" alt="Profile image of Dr Atsushi Sato" style="float:right;height:120px;">
   
-  <li>You can learn a lot from working alongside others - organise a hacky group to share solutions and troubleshoot challenges. You will likely find that you will learn shortcuts, quick keys, and handy commands from watching other people work.</li>
+  <li>You can learn a lot from working alongside others so why not organise a 'hacky hour'? This is a casual drop-in meeting time for researchers using bioinformatic tools to come together to share solutions and collaborate on troubleshooting challenges. You will likely find that you will learn shortcuts, quick keys, and handy commands from watching other people work.</li>
 
-  <li>We recommend you use programs that can make writing, editing, and running scripts easier, like <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</li>
+  <li>We recommend you use programs that can make writing, editing, and running scripts easier, like <a href="https://posit.co/products/open-source/rstudio/">RStudio</a> or <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</li>
   
 </p>
 
