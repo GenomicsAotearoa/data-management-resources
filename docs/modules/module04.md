@@ -1,6 +1,6 @@
 # Module 04 - Helping eResearch and libraries staff help you
 
-When first trying to navigate your institute's framework for data storage and management can be a lot like travelling through a new city when your phone battery has died. You have a vague sense of the direction, but no idea of what you're looking for or how to get there. But never fear, eResearch and libraries staff are here to help!  
+Trying to navigate your institute's framework for data storage and management can be a lot like travelling through a new city when your phone battery has died. You may have a vague sense of the direction, but no idea of what you're looking for or how to get there. But never fear, eResearch and libraries staff are here to help!  
 
 There is one caveat to this: to best support research groups with their data management needs, eResearch and libraries staff require context and clarification to enable them to design and deliver appropriate solutions. The more information they have, the better the solutions they can provide. It may be helpful to consider the following list of needs and questions from an eResearch support person, both during conversations with eResearch and libraries staff, but also when developing DMPs. Not all of these questions can be answered at the outset of a project, but it can be helpful to keep them in mind as you progress along the data life cycle.
 
@@ -40,3 +40,7 @@ While supporting researchers, eResearch teams have their own wants and needs tha
   
   <li>What resources will you require to carry out your research? Will you need specific hardware, software, additional training or access to technical expertise?</li>
 </p>
+
+*[DMP]: Data Management Plan
+*[eResearch]: The use of digital tools and techniques to advance research
+*[eResearch and libraries staff]: A broad group including research software engineers, research infrastructure developers, data scientists, data stewards, and other professional services staff that deliver library, IT, bioinformatics, and high-performance computational support
