@@ -10,7 +10,7 @@ We recognise that there remains a gap between knowing and doing, in part due to 
 
 While it is easy to envision the consequences of data misuse, what are the incentives to upholding good data management practices?
 
-* Good data management minimises the risks of data misuse, loss, or theft, improves transparency, and ensures data FAIRness within established parameters specific to those data.
+* Good data management minimises the risks of data misuse, loss, or theft, improves transparency, and ensures data management aligns with the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) Principles as appropriate for the data.
 * Good data management benefits the researcher through increased efficiency and greater opportunities for and outcomes of collaborations, with flow-on effects that can help to accelerate career trajectories.  
 * Good data management makes life easy!  
 
