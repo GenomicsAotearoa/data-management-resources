@@ -11,7 +11,7 @@ Metadata in its broadest form is 'the data about the data'. Metadata provides th
   </figcaption>
 </figure>
 
-For processed data, metadata will also include information such as the software, software versions, and parameters were used. Additional metadata may include associated keywords, downstream publications, funding sources, and data access and licensing details. To get an idea of metadata beyond the minimum, check out the [Darwin Core terms](https://dwc.tdwg.org/list/) for an extensive list. 
+For processed data, metadata will also include information such as the software, software versions, and parameters used. Additional metadata may include associated keywords, downstream publications, funding sources, and data access and licensing details. To get an idea of metadata beyond the minimum, check out the [Darwin Core terms](https://dwc.tdwg.org/list/) for an extensive list. 
 
 ## Why should we be collecting and managing metadata?
 
@@ -21,9 +21,9 @@ Metadata should be recorded and managed alongside DSI to ensure that results pro
 
 At its core, metadata collation and stewardship all come down to the need for thorough and consistent record-taking and record-keeping throughout the research life cycle, from sample collection through to dissemination of results. Starting early will save you from headaches down the track! 
 
-Portals such as the Genomic Observatories MetaDatabase ([GEOME](https://geome-db.org/)) and the Collaborative Open Plant Omics ([COPO](https://copo-project.readthedocs.io/en/latest/copo-about.html)) allow users to generate template to populate with metadata associated with DSI. By using existing templates, users can ensure that metadata is recorded in ways that are consistent with biodiversity genomics community standards.
+Portals such as the Genomic Observatories MetaDatabase ([GEOME](https://geome-db.org/)) and the Collaborative Open Plant Omics ([COPO](https://copo-project.readthedocs.io/en/latest/v)) allow users to generate template to populate with metadata associated with DSI. By using existing templates, users can ensure that metadata is recorded in ways that are consistent with biodiversity genomics community standards.
 
-Tools such as version control, software containers, and workflow management systems can be extremely helpful in tracking metadata during data processing and analysis. These tools can be particularly useful when shared across the research group, along with guidelines for directory structure and file naming conventions, ensuring time-wide consistency. for more on these tools, see [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/).
+Tools such as version control, software containers, and workflow management systems can be extremely helpful in tracking metadata during data processing and analysis. These tools can be particularly useful when shared across the research group, along with guidelines for directory structure and file naming conventions, ensuring team-wide consistency. for more on these tools, see [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/).
 
 ## Further reading
 
