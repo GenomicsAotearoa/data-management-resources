@@ -22,5 +22,5 @@ Below we present a simplified overview of the data life cycle within the broader
 | [Module 06](https://genomicsaotearoa.github.io/data-management-resources/modules/module06/){ .md-button .md-button--primary } | Indigenous data sovereignty |
 | [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/){ .md-button .md-button--primary } | The what, why and how of metadata management |
 | [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/){ .md-button .md-button--primary } | Incorporating data management into daily practice |
-| [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/){ .md-button .md-button--primary } | Strategies for cohesive data management within research teams |
+| [Module 09](https://genomicsaotearoa.github.io/data-management-resources/modules/module09/){ .md-button .md-button--primary } | Developing data management culture in research teams |
 | [Module 10](https://genomicsaotearoa.github.io/data-management-resources/modules/module10/){ .md-button .md-button--primary } | Working with local communities |
