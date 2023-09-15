@@ -48,34 +48,35 @@ Taylor and Yana met at a conference after Yana saw Taylor present on their resea
 The research culture in Yana’s team is competitive but friendly, with other students addressing different questions within the same system. The Research Team Leader (RTL) is highly motivated to publish, and places a great emphasis on rapid outputs, especially publications. Beyond dissemination to the wider scientific community, he does not consider science communication with the wider public a priority for the research team. Yana is excited to be part of such a fast-moving research team, but has recently become concerned about potential Indigenous data sovereignty needs for data generated during their PhD. The RTL has said that their focal species is not culturally significant. However, Yana has learnt that a number of samples were collected from several sites on land of cultural importance to an Indigenous group, and that there has been no engagement or consultation with the Indigenous community to date. Through ongoing conversations with Taylor, Yana is now questioning the research practices of her RTL and how they may impact the wider team, especially because a lot of the samples she is using are shared across multiple projects.
 
 ---
+!!! :speech_balloon:
 
-**Yana**: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
+  **Yana**: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
 
-<p align="right">
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:120px;">
-  
-  <b>Taylor</b>: Sure! How can I help?
-</p>
+  <p align="right">
+  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:60px;transform: scaleX(-1);">
+ 
+    <b>Taylor</b>: Sure! How can I help?
+  </p>
 
-**Yana**: I’ve tried to have a conversation with my RTL about Indigenous engagement related to some of the samples that I’m using in my thesis that were collected at several culturally significant sites. It did not go well. He basically encouraged me not to get distracted from the research.
+  **Yana**: I’ve tried to have a conversation with my RTL about Indigenous engagement related to some of the samples that I’m using in my thesis that were collected at several culturally significant sites. It did not go well. He basically encouraged me not to get distracted from the research.
 
-<p align="right">
-<b>Taylor</b>: I’m sorry to hear that friend. It sounds like it was a hard conversation to have.
-</p>
+  <p align="right">
+    <b>Taylor</b>: I’m sorry to hear that friend. It sounds like it was a hard conversation to have.
+  </p>
 
-**Yana**:  I would like to engage with the local Indigenous community about our work and find out if they have data management needs for these samples. But I’m worried my RTL thinks I am making trouble. I realise that engagement takes time, and I don’t want to hold up the whole team.
+  **Yana**:  I would like to engage with the local Indigenous community about our work and find out if they have data management needs for these samples. But I’m worried my RTL thinks I am making trouble. I realise that engagement takes time, and I don’t want to hold up the whole team.
 
-<p align="right">
-<b>Taylor</b>: That’s such a hard position to be in. I know your team puts a lot of their focus on publications, so the pressure is real. But, ultimately, something I’ve learned from Prof Nepia is that it’s the RTL’s role to lead Indigenous engagement. Have you shared your concerns with the wider team?
-</p>
+  <p align="right">
+    <b>Taylor</b>: That’s such a hard position to be in. I know your team puts a lot of their focus on publications, so the pressure is real. But, ultimately, something I’ve learned from Prof Nepia is that it’s the RTL’s role to lead Indigenous engagement. Have you shared your concerns with the wider team?
+  </p>
 
-**Yana**: No, it’s never come up. But I could try to start a conversation and see what they think.
+  **Yana**: No, it’s never come up. But I could try to start a conversation and see what they think.
 
-<p align="right">
-<b>Taylor</b>: Definitely, you may be surprised - it’s possible that others share your concerns, but felt hesitant to speak up.
-</p>
+  <p align="right">
+    <b>Taylor</b>: Definitely, you may be surprised - it’s possible that others share your concerns, but felt hesitant to speak up.
+  </p>
 
-**Yana**: I hadn’t thought of it that way. Thanks Taylor!
+  **Yana**: I hadn’t thought of it that way. Thanks Taylor!
 
 ---
 
