@@ -49,7 +49,7 @@ The research culture in Yana’s team is competitive but friendly, with other st
 
 ---
 
-!!! info :speech_balloon:
+!!! info ":speech_balloon:"
 
   <b>Yana</b>: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
   <p align="right">
