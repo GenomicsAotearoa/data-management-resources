@@ -16,7 +16,7 @@ Mouse-over for definitions: DMP, HPC, GPU. See the [Glossary](https://genomicsao
 
 | Question | Associated module providing solutions | 
 |:--|:--|
-| How can I embed data management processes in my daily workflows? | Incorporating data management into daily practice <br> [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/){ .md-button .md-button--primary } |
+| How can I efficiently keep on top of necessary data management? | Incorporating data management into daily practice <br> [Module 08](https://genomicsaotearoa.github.io/data-management-resources/modules/module08/){ .md-button .md-button--primary } |
 | How do I ensure interoperability across large genomic and environmental data sets? | The what, why, and how of metadata management <br> [Module 07](https://genomicsaotearoa.github.io/data-management-resources/modules/module07/){ .md-button .md-button--primary } |
 | How can I get help with access to analysis and storage resources? | Helping eResearch and libraries staff help you <br> [Module 04](https://genomicsaotearoa.github.io/data-management-resources/modules/module04/){ .md-button .md-button--primary } |
 
