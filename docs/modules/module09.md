@@ -23,9 +23,10 @@ These guidelines can be documented in a research group manual that clearly lays 
 ## Implementing a self-reflective retrospective following project completion
 
 [Self-reflective retrospectives](https://miro.com/miroverse/the-selfreflective-retrospective/) are commonly used as part of agile meeting practices. A self-reflective retrospective process can be used following project completion to help identify which aspects went according to plan, where needs changed over time, and where limitations or challenges occurred due to institutional or infrastructure constraints. An example format could be:
-1. List 3 things that worked well when developing and/or actioning the project’s DMP.
-2. List 3 things that created limitations and challenges when developing and/or actioning the project’s DMP.
-3. List 3 things you might do differently next time to improve the process.
+  1. List 3 things that worked well when developing and/or actioning the project’s DMP.
+  2. List 3 things that created limitations and challenges when developing and/or actioning the project’s DMP.
+  3. List 3 things you might do differently next time to improve the process.
+
 The team can then come together to discuss, or the project leader can collate the feedback from these self-reflective retrospectives to identify where there are opportunities for improving processes.
 
 ## Establishing a research data management culture in your team
