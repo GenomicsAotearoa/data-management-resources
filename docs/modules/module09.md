@@ -2,7 +2,7 @@
 
 It is vital to ensure the continuity of data management throughout the research life cycle. Data management is most effective when pursued as a team, with a consistent and cohesive long-term plan and some division of labour. A little effort early in the process can go a long way! Here we highlight two strategies to support research teams in achieving their data management aspirations. 
 
-## Documenting data management guidelines for research teams 
+## :bookmark_tabs: Documenting data management guidelines for research teams 
 
 We recommend that research teams develop clear documentation around on- and off-boarding procedures and daily data management practices. This will streamline the process of joining the team, provide guidance on the options for and constraints around data transfer, storage, and access. This also paves a clear pathway for ongoing access to data, or the packaging of data and metadata for long-term storage upon departure.
 
@@ -20,7 +20,7 @@ We do not intend to dictate what these relationships and interactions should loo
 
 These guidelines can be documented in a research team manual that clearly lays out on- and off-boarding processes, bi-directional expectations for interpersonal relationships, relevant ethical considerations and expectations, and any institutional requirements that may arise across the research life cycle. Some examples of these include, but are not limited to completing student-supervisor agreements, project proposals, human or animal ethics applications, and funding applications to support research or conference travel. 
 
-## Implementing a self-reflective retrospective following project completion
+## :thought_balloon: Implementing a self-reflective retrospective following project completion
 
 [Self-reflective retrospectives](https://miro.com/miroverse/the-selfreflective-retrospective/) are commonly used as part of agile meeting practices. A self-reflective retrospective process can be used following project completion to help identify which aspects went according to plan, where needs changed over time, and where limitations or challenges occurred due to institutional or infrastructure constraints. An example format could be:
 
@@ -31,13 +31,13 @@ These guidelines can be documented in a research team manual that clearly lays o
 
 The team can then come together to discuss, or the project leader can collate the feedback from these self-reflective retrospectives to identify where there are opportunities for improving processes.
 
-## Establishing a research data management culture in your team
+## :woman_scientist::man_scientist: Establishing a research data management culture in your team
 
 To ensure consistency despite the potential for frequent turnover within the team, we suggest that research teams establish a data management champion to oversee the onboarding and training of new members and ensure the implementation of consistent data management practices across the research team. While anyone can take on this transferable role, a data management champion will ideally have a mid- to long-term position within the research team, hold a deep understanding of the unique characteristics of each research project, and have the necessary level of autonomy to operate independently as a leader in this role. Succession planning for this role will be essential to ensure consistency and continuity. 
 
 This person can also operate as a conduit between the research team and eResearch and libraries staff, and so excellent people skills will be advantageous. By engaging regularly and often with their institute’s support structures, they can ensure that eResearch and libraries staff are kept up to date with the changing needs of the team, and ensure access to the latest services and support. 
 
-## Navigating conflicting perspectives
+## :anger::compass: Navigating conflicting perspectives
 
 Navigating high risk, high consequence (whether perceived or real) situations is stressful and can place a significant strain on working relationships. This is compounded in situations with imbalanced power dynamics, which can have particularly severe consequences for those holding less power (e.g., early career researchers (ECRs)). 
 
@@ -48,6 +48,7 @@ Taylor and Yana met at a conference after Yana saw Taylor present on their resea
 The research culture in Yana’s team is competitive but friendly, with other students addressing different questions within the same system. The Research Team Leader (RTL) is highly motivated to publish, and places a great emphasis on rapid outputs, especially publications. Beyond dissemination to the wider scientific community, he does not consider science communication with the wider public a priority for the research team. Yana is excited to be part of such a fast-moving research team, but has recently become concerned about potential Indigenous data sovereignty needs for data generated during their PhD. The RTL has said that their focal species is not culturally significant. However, Yana has learnt that a number of samples were collected from several sites on land of cultural importance to an Indigenous group, and that there has been no engagement or consultation with the Indigenous community to date. Through ongoing conversations with Taylor, Yana is now questioning the research practices of her RTL and how they may impact the wider team, especially because a lot of the samples she is using are shared across multiple projects.
 
 ---
+
 !!! :speech_balloon:
 
   **Yana**: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
