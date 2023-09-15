@@ -16,7 +16,7 @@ We do not intend to dictate what these relationships and interactions should loo
 * developing and managing DMPs
 * data sharing consistent with DMPs
 * documenting analysis and using version control 
-* maintening an up-to-date list of key people within the team and institute.
+* maintaining an up-to-date list of key people within the team and institute.
 
 These guidelines can be documented in a research group manual that clearly lays out on- and off-boarding processes, bi-directional expectations for interpersonal relationships, relevant ethical considerations and expectations, and any institutional requirements that may arise across the research life cycle. Some examples of these include, but are not limited to completing student-supervisor agreements, project proposals, human or animal ethics applications, and funding applications to support research or conference travel. 
 
