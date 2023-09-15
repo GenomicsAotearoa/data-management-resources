@@ -51,10 +51,10 @@ The research culture in Yana’s team is competitive but friendly, with other st
 
 **Yana**: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
 
-<p>
+<p align="right">
 <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:120px;">
   
-  <li><b>Taylor</b>: Sure! How can I help?</li>
+  <b>Taylor</b>: Sure! How can I help?
 </p>
 
 **Yana**: I’ve tried to have a conversation with my RTL about Indigenous engagement related to some of the samples that I’m using in my thesis that were collected at several culturally significant sites. It did not go well. He basically encouraged me not to get distracted from the research.
