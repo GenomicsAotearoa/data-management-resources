@@ -50,7 +50,6 @@ The research culture in Yana’s team is competitive but friendly, with other st
 ---
 
 !!! info ":speech_balloon:"
-
   <b>Yana</b>: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
   <p align="right">
   <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:40px;transform:scaleX(-1);">
@@ -83,12 +82,11 @@ Following her conversation with Taylor, Yana’s conversations with her research
 ---
 
 !!! info
-
-**Yana**: I talked to my teammates, but no-one feels comfortable trying to approach our RTL with me. I tried to speak to my RTL about my concerns again, but he got frustrated with me. I don’t know what to do next.
-<p align="right">
-<b>Taylor</b>: Would you like me to reach out to my Supervisor, Professor Nepia, for some advice?
+  <b>Yana</b>: I talked to my teammates, but no-one feels comfortable trying to approach our RTL with me. I tried to speak to my RTL about my concerns again, but he got frustrated with me. I don’t know what to do next.
+  <p align="right">
+    <b>Taylor</b>: Would you like me to reach out to my Supervisor, Professor Nepia, for some advice?
   </p>
-<b>Yana</b>: Yeah! I think that would be great.
+  <b>Yana</b>: Yeah! I think that would be great.
 
 ---
 Professor Nepia encourages Yana to seek support at her institution. For example, at the departmental level, she could reach out to a trusted academic for confidential advice, or seek support from a graduate advisor on how to approach these conversations with her RTL. Beyond her department, Yana could reach out to the graduate school, or the graduate students' association. Dedicated support services like these are best equipped to provide institution-specific advice and support. Professor Nepia is keen to hear how it goes, and offers to provide additional advice if needed. 
