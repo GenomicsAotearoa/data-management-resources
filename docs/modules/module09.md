@@ -74,7 +74,7 @@ The research culture in Yana’s team is competitive but friendly, with other st
 
 ### :slightly_smiling_face: Outcome A
 
-Following her conversation with Taylor, Yana learned that members of her research team shared many of the same concerns but were similarly intimidated by the idea of raising the issue with their RTL. With support and encouragement from the team, Yana raised this topic for discussion during a team meeting. The RTL was surprised to learn of the team’s concerns, as he was unfamiliar with the developing awareness within the field of biodiversity genomics of the need to engage with Indigenous communities. He was grateful to have these developments raised by the team. He is now learning about Indigenous data sovereignty and the CARE Guiding Principles, and gaining support from his academic and professional colleagues with experience working with Indigenous communities.
+Following her conversation with Taylor, Yana learned that members of her research team shared many of the same concerns but were similarly intimidated by the idea of raising the issue with their RTL. With support and encouragement from the team, Yana raised this topic for discussion during a team meeting. The RTL was surprised to learn of the team’s concerns, as he was unfamiliar with the developing awareness within the field of biodiversity genomics of the need to engage with Indigenous communities. He was grateful to have these developments raised by the team. He is now learning about Indigenous data sovereignty and the [CARE Guiding Principles](https://www.gida-global.org/care), and gaining support from his academic and professional colleagues with experience working with Indigenous communities.
 
 ### :worried: Outcome B
 
