@@ -49,54 +49,48 @@ The research culture in Yana’s team is competitive but friendly, with other st
 
 ---
 
-!!! :speech_balloon:
+!!! info :speech_balloon:
 
-  **Yana**: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
-
+  <b>Yana</b>: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
   <p align="right">
   <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:60px;transform:scaleX(-1);">
- 
   <b>Taylor</b>: Sure! How can I help?
   </p>
-
-  **Yana**: I’ve tried to have a conversation with my RTL about Indigenous engagement related to some of the samples that I’m using in my thesis that were collected at several culturally significant sites. It did not go well. He basically encouraged me not to get distracted from the research.
-
+  <b>Yana</b>: I’ve tried to have a conversation with my RTL about Indigenous engagement related to some of the samples that I’m using in my thesis that were collected at several culturally significant sites. It did not go well. He basically encouraged me not to get distracted from the research.
   <p align="right">
     <b>Taylor</b>: I’m sorry to hear that friend. It sounds like it was a hard conversation to have.
   </p>
-
-  **Yana**:  I would like to engage with the local Indigenous community about our work and find out if they have data management needs for these samples. But I’m worried my RTL thinks I am making trouble. I realise that engagement takes time, and I don’t want to hold up the whole team.
-
+  <b>Yana</b>:  I would like to engage with the local Indigenous community about our work and find out if they have data management needs for these samples. But I’m worried my RTL thinks I am making trouble. I realise that engagement takes time, and I don’t want to hold up the whole team.
   <p align="right">
     <b>Taylor</b>: That’s such a hard position to be in. I know your team puts a lot of their focus on publications, so the pressure is real. But, ultimately, something I’ve learned from Prof Nepia is that it’s the RTL’s role to lead Indigenous engagement. Have you shared your concerns with the wider team?
   </p>
-
-  **Yana**: No, it’s never come up. But I could try to start a conversation and see what they think.
-
+  <b>Yana</b>: No, it’s never come up. But I could try to start a conversation and see what they think.
   <p align="right">
     <b>Taylor</b>: Definitely, you may be surprised - it’s possible that others share your concerns, but felt hesitant to speak up.
   </p>
-
-  **Yana**: I hadn’t thought of it that way. Thanks Taylor!
+  <b>Yana</b>: I hadn’t thought of it that way. Thanks Taylor!
 
 ---
 
-### Outcome A
+### :slightly_smiling_face: Outcome A
 
 Following her conversation with Taylor, Yana learned that members of her research team shared many of the same concerns but were similarly intimidated by the idea of raising the issue with their RTL. With support and encouragement from the team, Yana raised this topic for discussion during a team meeting. The RTL was surprised to learn of the team’s concerns, as he was unfamiliar with the developing awareness within the field of biodiversity genomics of the need to engage with Indigenous communities. He was grateful to have these developments raised by the team. He is now learning about Indigenous data sovereignty and the CARE Guiding Principles, and gaining support from his academic and professional colleagues with experience working with Indigenous communities.
 
-### Outcome B: 
+### :worried: Outcome B
 
-Following her conversation with Taylor, Yana’s conversations with her research team do not go well. Although some share her concerns, none felt comfortable discussing them with the RTL. Unsure of what to do next, Yana goes back to Taylor: 
+Following her conversation with Taylor, Yana’s conversations with her research team do not go well. Although some share her concerns, none felt comfortable discussing them with the RTL. Unsure of what to do next, Yana goes back to Taylor.
+
+---
+
+!!! info
 
 **Yana**: I talked to my teammates, but no-one feels comfortable trying to approach our RTL with me. I tried to speak to my RTL about my concerns again, but he got frustrated with me. I don’t know what to do next.
-
 <p align="right">
 <b>Taylor</b>: Would you like me to reach out to my Supervisor, Professor Nepia, for some advice?
   </p>
-  
-**Yana**: Yeah! I think that would be great.
+<b>Yana</b>: Yeah! I think that would be great.
 
+---
 Professor Nepia encourages Yana to seek support at her institution. For example, at the departmental level, she could reach out to a trusted academic for confidential advice, or seek support from a graduate advisor on how to approach these conversations with her RTL. Beyond her department, Yana could reach out to the graduate school, or the graduate students' association. Dedicated support services like these are best equipped to provide institution-specific advice and support. Professor Nepia is keen to hear how it goes, and offers to provide additional advice if needed. 
 
 Both outcomes rely on ECRs having access to a supportive research environment within their teams, departments and institutions. 
