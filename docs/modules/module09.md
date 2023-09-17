@@ -55,7 +55,7 @@ The research culture in Yana’s team is competitive but friendly, with other st
   <b>Yana</b>: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
   </p>
   <p align="right">
-  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:40px;transform:scaleX(-1);">
+  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:50px;transform:scaleX(-1);">
   <b>Taylor</b>: Sure! How can I help?
   </p>
   <b>Yana</b>: I’ve tried to have a conversation with my RTL about Indigenous engagement related to some of the samples that I’m using in my thesis that were collected at several culturally significant sites. It did not go well. He basically encouraged me not to get distracted from the research.
@@ -89,7 +89,7 @@ Following her conversation with Taylor, Yana’s conversations with her research
   <b>Yana</b>: I talked to my teammates, but no-one feels comfortable trying to approach our RTL with me. I tried to speak to my RTL about my concerns again, but he got frustrated with me. I don’t know what to do next.
   </p>
   <p align="right">
-  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:40px;transform:scaleX(-1);">
+  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:50px;transform:scaleX(-1);">
   <b>Taylor</b>: Would you like me to reach out to my Supervisor, Professor Nepia, for some advice?
   </p>
   <b>Yana</b>: Yeah! I think that would be great.
