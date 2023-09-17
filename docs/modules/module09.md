@@ -48,9 +48,12 @@ Taylor and Yana met at a conference after Yana saw Taylor present on their resea
 The research culture in Yana’s team is competitive but friendly, with other students addressing different questions within the same system. The Research Team Leader (RTL) is highly motivated to publish, and places a great emphasis on rapid outputs, especially publications. Beyond dissemination to the wider scientific community, he does not consider science communication with the wider public a priority for the research team. Yana is excited to be part of such a fast-moving research team, but has recently become concerned about potential Indigenous data sovereignty needs for data generated during their PhD. The RTL has said that their focal species is not culturally significant. However, Yana has learnt that a number of samples were collected from several sites on land of cultural importance to an Indigenous group, and that there has been no engagement or consultation with the Indigenous community to date. Through ongoing conversations with Taylor, Yana is now questioning the research practices of her RTL and how they may impact the wider team, especially because a lot of the samples she is using are shared across multiple projects.
 
 ---
+:speech_balloon:
 
-!!! info ":speech_balloon:"
+  <p align="left">
+  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Yana-headshot.png?raw=true" alt="Profile image of Yana" style="float:left;height:40px;">
   <b>Yana</b>: Hey Taylor! I’m struggling with something that I’ve been wanting to talk to you about for a while now. Have you got time to talk?
+  </p>
   <p align="right">
   <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:40px;transform:scaleX(-1);">
   <b>Taylor</b>: Sure! How can I help?
@@ -68,7 +71,6 @@ The research culture in Yana’s team is competitive but friendly, with other st
     <b>Taylor</b>: Definitely, you may be surprised - it’s possible that others share your concerns, but felt hesitant to speak up.
   </p>
   <b>Yana</b>: I hadn’t thought of it that way. Thanks Taylor!
-
 ---
 
 ### :slightly_smiling_face: Outcome A
@@ -80,15 +82,18 @@ Following her conversation with Taylor, Yana learned that members of her researc
 Following her conversation with Taylor, Yana’s conversations with her research team do not go well. Although some share her concerns, none felt comfortable discussing them with the RTL. Unsure of what to do next, Yana goes back to Taylor.
 
 ---
-
-!!! info
+:speech_balloon:
+  <p align="left">
+  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Yana-headshot.png?raw=true" alt="Profile image of Yana" style="float:left;height:40px;">
   <b>Yana</b>: I talked to my teammates, but no-one feels comfortable trying to approach our RTL with me. I tried to speak to my RTL about my concerns again, but he got frustrated with me. I don’t know what to do next.
+  </p>
   <p align="right">
-    <b>Taylor</b>: Would you like me to reach out to my Supervisor, Professor Nepia, for some advice?
+  <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Taylor-profile.png?raw=true" alt="Profile image of Taylor Smith" style="float:right;height:40px;transform:scaleX(-1);">
+  <b>Taylor</b>: Would you like me to reach out to my Supervisor, Professor Nepia, for some advice?
   </p>
   <b>Yana</b>: Yeah! I think that would be great.
-
 ---
+
 Professor Nepia encourages Yana to seek support at her institution. For example, at the departmental level, she could reach out to a trusted academic for confidential advice, or seek support from a graduate advisor on how to approach these conversations with her RTL. Beyond her department, Yana could reach out to the graduate school, or the graduate students' association. Dedicated support services like these are best equipped to provide institution-specific advice and support. Professor Nepia is keen to hear how it goes, and offers to provide additional advice if needed. 
 
 Both outcomes rely on ECRs having access to a supportive research environment within their teams, departments and institutions. 
