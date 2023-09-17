@@ -71,6 +71,7 @@ The research culture in Yana’s team is competitive but friendly, with other st
     <b>Taylor</b>: Definitely, you may be surprised - it’s possible that others share your concerns, but felt hesitant to speak up.
   </p>
   <b>Yana</b>: I hadn’t thought of it that way. Thanks Taylor!
+  
 ---
 
 ### :slightly_smiling_face: Outcome A
@@ -92,6 +93,7 @@ Following her conversation with Taylor, Yana’s conversations with her research
   <b>Taylor</b>: Would you like me to reach out to my Supervisor, Professor Nepia, for some advice?
   </p>
   <b>Yana</b>: Yeah! I think that would be great.
+  
 ---
 
 Professor Nepia encourages Yana to seek support at her institution. For example, at the departmental level, she could reach out to a trusted academic for confidential advice, or seek support from a graduate advisor on how to approach these conversations with her RTL. Beyond her department, Yana could reach out to the graduate school, or the graduate students' association. Dedicated support services like these are best equipped to provide institution-specific advice and support. Professor Nepia is keen to hear how it goes, and offers to provide additional advice if needed. 
