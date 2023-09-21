@@ -11,7 +11,7 @@ There is one caveat to this: to best support research groups with their data man
 While supporting researchers, eResearch teams have their own wants and needs that must be met to ensure they can deliver wrap-around data management solutions. Some of these include:
 
 <p>
-<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Darryl-profile.png?raw=true" style="float:left;width:150px;" alt="Profile image of eResearch manager Darryl">
+<img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Darryl-profile.png?raw=true" style="float:right;width:150px;transform:scaleX(-1);" alt="Profile image of eResearch manager Darryl">
   
   
   &#128194; <b> Information on the research project</b>
