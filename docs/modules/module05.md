@@ -12,7 +12,7 @@ A data management plan (DMP), sometimes referred to as a data management and sha
   <img src="https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/Tehara-profile.png?raw=true" alt="Profile image of Professor Nepia" style="float:right;height:120px;"> To co-design a DMP that is fit-for-purpose, Professor Nepia leverages her previous experience to balance institutional responsibilities, research objectives, and priorities of Indigenous research partners. For instance, the university has a mandate for researchers to provide DMPs, the project will generate a large amount of data from hundreds of samples collected at various locations, and Indigenous research partners' desire to maintain kaitiakitanga. Through conversations between Taylor, Professor Nepia, Indigenous research partners, and representatives from a national wildlife department, Taylor has identified institutional commitments, research requirements, and Indigenous needs around the data. They have collated these in a table so they can clearly understand their obligations. 
   </p>
 
-| What | When | Where| Who |
+| :question: What | :watch: When | :round_pushpin: Where | :man_technologist::woman_scientist: Who |
 |--|--|--|--|
 | Project: whole genome resequencing of a lizard species, many individuals sampled from across the species range sequenced to moderate depth, a reference genome sequenced and assembled  | Start date: ASAP | Processing & storage: Institutional computation and storage resources | Data custodian: Professor Nepia on behalf of Indigenous research partners during the research life cycle |
 | Metadata: project title, funding organisation, project ID, species, sample IDs, geographic location, collection date, details of ethics permits, Indigenous affiliations, primary contact details | Project duration: 4 years | DMP in development | Different groups involved with data collection and generation: national wildlife department - long-term species monitoring, Taylor - sample collection with Indigenous community members, lab work, analysing data and preparing research outputs, sequencing facility  - producing raw DSI  |
@@ -33,7 +33,7 @@ In Dr Sato’s case, leveraging datasets with different data management requirem
 
 In his role, Dr Sato generates large quantities of intermediate analysis files, and typically hands off data to other collaborators once analysis is complete. He is less concerned with long-term storage requirements, and more with the here-and-now of these data sets. Similarly to Taylor, he has created a table of his data management concerns and considerations.
 
-| Who | What | When | Where | Why | How |
+| :man_technologist::woman_scientist: Who | :question: What | :watch: When | :round_pushpin: Where | :grey_question: Why | :bookmark_tabs: How |
 |--|--|--|--|--|--|
 | Project: Climate change impacts on adaptation of fisheries stocks | Secure data transfer required, with restricted data access | Data generated at external institutions iteratively over past 5 years | Very comprehensive metadata supplied by collaborators | Computationally intensive so requires national HPC infrastructure | Some data being reused for purposes other than that initially determined |
 | Collaborators leading the project are acting as data custodians and decision-makers for data management | | Atsushi intends to complete work on this project within the next 6 months | DMP provided by collaborators - but this lacks information on whether some key files are available for reuse | | Supplied data and outputs to be deleted following delivery of results as per DMP |
@@ -41,7 +41,7 @@ In his role, Dr Sato generates large quantities of intermediate analysis files, 
 
 Among these concerns, he observes a shortfall in one of these existing DMPs, that lacks guidance for the potential reuse of key intermediate files. While this small oversight is not the end of the world, he will need to discuss this with his collaborators, who may need to revise this DMP. 
 
-## The foundation of a DMP
+## :atom: The foundation of a DMP
 
 By having done the background thinking and having discussions around data management for a proposed project you will be well prepared to develop a DMP. Some examples of what may be covered in a DMP include: 
 
@@ -55,7 +55,7 @@ By having done the background thinking and having discussions around data manage
 While some funding bodies or institutes may designate specific templates, these are likely to cover fairly similar aspects and can be readily adapted to suit. Considering the [5Ws (+H)](https://github.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/5Ws-eResearch-support-staff-draft-v2.png?raw=true) for your project should help you to populate any template.
 
 
-## Resources for developing a Data Management Plan
+## :globe_with_meridians: Resources for developing a Data Management Plan
 
 DMPs are widely used across the research, science, and innovation sector. As such, there is no need to reinvent the wheel - leverage the wide array of available resources to help you get started! 
 
