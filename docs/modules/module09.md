@@ -78,6 +78,8 @@ The research culture in Yana’s team is competitive but friendly, with other st
 
 Following her conversation with Taylor, Yana learned that members of her research team shared many of the same concerns but were similarly intimidated by the idea of raising the issue with their RTL. With support and encouragement from the team, Yana raised this topic for discussion during a team meeting. The RTL was surprised to learn of the team’s concerns, as he was unfamiliar with the developing awareness within the field of biodiversity genomics of the need to engage with Indigenous communities. He was grateful to have these developments raised by the team. He is now learning about Indigenous data sovereignty and the [CARE Guiding Principles](https://www.gida-global.org/care), and gaining support from his academic and professional colleagues with experience working with Indigenous communities.
 
+---
+
 ### :worried: Outcome B
 
 Following her conversation with Taylor, Yana’s conversations with her research team do not go well. Although some share her concerns, none felt comfortable discussing them with the RTL. Unsure of what to do next, Yana goes back to Taylor.
@@ -97,6 +99,8 @@ Following her conversation with Taylor, Yana’s conversations with her research
 ---
 
 Professor Nepia encourages Yana to seek support at her institution. For example, at the departmental level, she could reach out to a trusted academic for confidential advice, or seek support from a graduate advisor on how to approach these conversations with her RTL. Beyond her department, Yana could reach out to the graduate school, or the graduate students' association. Dedicated support services like these are best equipped to provide institution-specific advice and support. Professor Nepia is keen to hear how it goes, and offers to provide additional advice if needed. 
+
+---
 
 Both outcomes rely on ECRs having access to a supportive research environment within their teams, departments and institutions. 
 
