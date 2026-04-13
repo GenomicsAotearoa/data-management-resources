@@ -10,7 +10,7 @@ We request that if you use any of the slides, figures, or illustrations provided
        style="height:300px;">
 </a>
 
-<a href="https://raw.githubusercontent.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/BGDMH-DMPs-teaching-resource.pptx" download>
-  <img src="https://raw.githubusercontent.com/GenomicsAotearoa/data-management-resources/blob/main/docs/figures/BGDMH-DMPs.PNG" 
+<a href="https://raw.githubusercontent.com/GenomicsAotearoa/data-management-resources/main/docs/figures/BGDMH-DMPs-teaching-resource.pptx" download>
+  <img src="https://raw.githubusercontent.com/GenomicsAotearoa/data-management-resources/main/docs/figures/BGDMH-DMPs.PNG" 
        alt="Data Management Plans title slide" 
        style="height:300px;">
